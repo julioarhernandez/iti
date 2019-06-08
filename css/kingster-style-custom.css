@@ -188,8 +188,8 @@ body.kingster-boxed .kingster-body-wrapper{ margin-top: 0px; margin-bottom: 0px;
 .kingster-header-side-nav.kingster-style-side{ padding-left: 70px; padding-right: 70px; }.kingster-header-side-nav.kingster-style-left .sf-vertical > li > ul.sub-menu{ padding-left: 70px; }.kingster-header-side-nav.kingster-style-right .sf-vertical > li > ul.sub-menu{ padding-right: 70px; } 
  .kingster-navigation .sf-vertical > li{ padding-top: 16px; padding-bottom: 16px; } 
 .kingster-header-style-bar .kingster-logo-right-text{ padding-top: 30px; } 
-.kingster-logo{ padding-top: 24px; } 
-.kingster-logo{ padding-bottom: 28px; } 
+.kingster-logo{ padding-top: 20px; } 
+.kingster-logo{ padding-bottom: 16px; } 
 .kingster-logo-inner{ max-width: 330px; } 
 @media only screen and (max-width: 1260px){ .kingster-mobile-header .kingster-logo-inner{ max-width: 250px; } } 
 @media only screen and (max-width: 767px){ .kingster-mobile-header .kingster-logo-inner{ max-width: 180px; } } 
