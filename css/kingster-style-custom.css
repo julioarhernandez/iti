@@ -198,8 +198,8 @@ body.kingster-boxed .kingster-body-wrapper{ margin-top: 0px; margin-bottom: 0px;
 .kingster-navigation .kingster-main-menu{ padding-right: 0px; } 
 .kingster-main-menu-right-wrap{ margin-top: 6px; } 
 .kingster-fixed-navigation.kingster-style-slide .kingster-logo-inner img{ max-height: none !important; }.kingster-animate-fixed-navigation.kingster-header-style-plain .kingster-logo-inner, .kingster-animate-fixed-navigation.kingster-header-style-boxed .kingster-logo-inner{ max-width: 220px; } 
-.kingster-animate-fixed-navigation.kingster-header-style-plain .kingster-logo, .kingster-animate-fixed-navigation.kingster-header-style-boxed .kingster-logo{ padding-top: 23px; } 
-.kingster-animate-fixed-navigation.kingster-header-style-plain .kingster-logo, .kingster-animate-fixed-navigation.kingster-header-style-boxed .kingster-logo{ padding-bottom: 20px; } 
+.kingster-animate-fixed-navigation.kingster-header-style-plain .kingster-logo, .kingster-animate-fixed-navigation.kingster-header-style-boxed .kingster-logo{ padding-top: 14px; } 
+.kingster-animate-fixed-navigation.kingster-header-style-plain .kingster-logo, .kingster-animate-fixed-navigation.kingster-header-style-boxed .kingster-logo{ padding-bottom: 15px; } 
 .kingster-animate-fixed-navigation.kingster-header-style-plain .kingster-navigation, .kingster-animate-fixed-navigation.kingster-header-style-boxed .kingster-navigation{ padding-top: 30px; }.kingster-animate-fixed-navigation.kingster-header-style-plain .kingster-navigation-top, .kingster-animate-fixed-navigation.kingster-header-style-boxed .kingster-navigation-top{ top: 30px; } 
 .kingster-animate-fixed-navigation.kingster-header-style-plain .kingster-navigation .sf-menu > li > a, .kingster-animate-fixed-navigation.kingster-header-style-boxed .kingster-navigation .sf-menu > li > a{ padding-bottom: 25px; } 
 .kingster-breadcrumbs{ padding-top: 25px; } 
