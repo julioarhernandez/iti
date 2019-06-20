@@ -17,6 +17,13 @@
  * 1.0 - Reset
  */
 
+ :root {
+	--yellow-color: #f48c12;
+	--yellow-color-light: #f4a01c;
+	--yellow-color-lighter: #ffb238;
+	--navu-color: brown;
+  }
+
 html,
 body,
 div,
@@ -423,7 +430,7 @@ body .page-links>span,
 body .page-links>a:hover,
 body .nav-links>span.current,
 body .nav-links>a:hover {
-	background-color: #3db166;
+	background-color: var(--yellow-color-light);;
 	color: #fff;
 }
 
@@ -791,7 +798,7 @@ input[type="reset"]:focus {
 }
 
 .iti-body .iti-top-bar .iti-top-bar-right-button {
-	background: #3db166;
+	background: var(--yellow-color-light);;
 	color: #fff;
 }
 
@@ -6069,7 +6076,7 @@ body .tribe-bar-views-inner {
 }
 
 #gdlr-core-button-id-66813:hover {
-    color: #3db166
+    color: var(--yellow-color-light);
 }
 
 @media only screen and (max-width: 767px) {
@@ -6098,51 +6105,51 @@ body .tribe-bar-views-inner {
 }
 
 #gdlr-core-title-item-id-66469 .gdlr-core-title-item-title a {
-    color: #3db166
+    color: var(--yellow-color-light);
 }
 
 #gdlr-core-title-item-id-66469 .gdlr-core-title-item-title a:hover {
-    color: #59c17a
+    color: var(--yellow-color);
 }
 
 #gdlr-core-title-item-id-42777 .gdlr-core-title-item-title a {
-    color: #3db166
+    color: var(--yellow-color-light);
 }
 
 #gdlr-core-title-item-id-42777 .gdlr-core-title-item-title a:hover {
-    color: #59c17a
+    color: var(--yellow-color);
 }
 
 #gdlr-core-title-item-id-51281 .gdlr-core-title-item-title a {
-    color: #3db166
+    color: var(--yellow-color-light);
 }
 
 #gdlr-core-title-item-id-51281 .gdlr-core-title-item-title a:hover {
-    color: #59c17a
+    color: var(--yellow-color);
 }
 
 #gdlr-core-title-item-id-78243 .gdlr-core-title-item-title a {
-    color: #3db166
+    color: var(--yellow-color-light);
 }
 
 #gdlr-core-title-item-id-78243 .gdlr-core-title-item-title a:hover {
-    color: #59c17a
+    color: var(--yellow-color);
 }
 
 #gdlr-core-title-item-id-14842 .gdlr-core-title-item-title a {
-    color: #3db166
+    color: var(--yellow-color-light);
 }
 
 #gdlr-core-title-item-id-14842 .gdlr-core-title-item-title a:hover {
-    color: #59c17a
+    color: var(--yellow-color);
 }
 
 #gdlr-core-title-item-id-33183 .gdlr-core-title-item-title a {
-    color: #3db166
+    color: var(--yellow-color-light);
 }
 
 #gdlr-core-title-item-id-33183 .gdlr-core-title-item-title a:hover {
-    color: #59c17a
+    color: var(--yellow-color);
 }
 
 @media only screen and (max-width: 767px) {
@@ -6190,7 +6197,7 @@ body .tribe-bar-views-inner {
 }
 
 .filter a.active {
-	color: #3db166 !important;
+	color: var(--yellow-color-light); !important;
 }
 
 
@@ -6236,7 +6243,7 @@ body .tribe-bar-views-inner {
 	padding: 15px; 
 	width: 100%;
 	display: block; -webkit-appearance: none; 
-	background-color:#3db166; 
+	background-color:var(--yellow-color-light);; 
 	border: 0;
 	color: #fff;
 	font-style: normal !important;

@@ -878,7 +878,7 @@
 .gdlr-core-course-item.gdlr-core-course-style-list-info .gdlr-core-course-item-list{ background: #f2f2f2; }
 .gdlr-core-course-item.gdlr-core-course-style-list-info .gdlr-core-course-item-info{ color: #6b6b6b; }
 .gdlr-core-course-item.gdlr-core-course-style-list-info .gdlr-core-course-item-button,
-.gdlr-core-course-item.gdlr-core-course-style-list-info .gdlr-core-course-item-button:hover{ background-color: #50bd77; color: #fff; }
+.gdlr-core-course-item.gdlr-core-course-style-list-info .gdlr-core-course-item-button:hover{ background-color: var(--yellow-color-lighter);; color: #fff; }
 
 /* image */
 .gdlr-core-image-overlay{ position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; 
@@ -2047,7 +2047,7 @@ ul.gdlr-core-product-sub-category li h3{font-size: 18px;margin-top: 24px;margin-
 .gdlr-core-body .gdlr-core-course-form input,
 .gdlr-core-course-form .gdlr-core-course-form-combobox select,
 .gdlr-core-course-form .gdlr-core-course-form-combobox:after{ color: #b1c0e0; }
-.gdlr-core-body .gdlr-core-course-form input[type="submit"]{ background: #50bd77; }
+.gdlr-core-body .gdlr-core-course-form input[type="submit"]{ background: var(--yellow-color-lighter);; }
 
 .gdlr-core-course-form input::-webkit-input-placeholder{ color: #b1c0e0; }
 .gdlr-core-course-form input::-moz-placeholder{ color: #b1c0e0; }
