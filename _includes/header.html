@@ -23,14 +23,14 @@
             <div class="iti-navigation iti-item-pdlr clearfix ">
                 <div class="iti-main-menu" id="iti-main-menu">
                     <ul id="menu-main-navigation-1" class="sf-menu">
-                        <li class="menu-item menu-item-home current-menu-item menu-item-has-children iti-normal-menu"><a href="index.html" class="sf-with-ul-pre">Home</a></li>
-                        <li class="menu-item menu-item-has-children iti-normal-menu"><a href="#" class="sf-with-ul-pre">About ITI</a>
+                        <li class="menu-item{% if page.menu == 'home' %} current-menu-item{% endif %} menu-item-home menu-item-has-children iti-normal-menu"><a href="index.html" class="sf-with-ul-pre">Home</a></li>
+                        <li class="menu-item{% if page.menu == 'about' %} current-menu-item{% endif %} menu-item-has-children iti-normal-menu"><a href="#" class="sf-with-ul-pre">About ITI</a>
                             <ul class="sub-menu">
                                 <li class="menu-item" data-size="60"><a href="about-us.html">Know us better</a></li>
                                 <li class="menu-item" data-size="60"><a href="staff.html">Our Staff</a></li>
                             </ul>
                         </li>
-                        <li class="menu-item menu-item-has-children iti-mega-menu"><a href="#" class="sf-with-ul-pre">Academic</a>
+                        <li class="menu-item{% if page.menu == 'academic' %} current-menu-item{% endif %} menu-item-has-children iti-mega-menu"><a href="#" class="sf-with-ul-pre">Academic</a>
                             <div class="sf-mega sf-mega-full megaimg">
                                 <ul class="sub-menu">
                                     <li class="menu-item menu-item-has-children" data-size="15"><a class="sf-with-ul-pre">Academic Programs</a>
@@ -55,12 +55,12 @@
                                 </ul>
                             </div>
                         </li>
-                        <li class="menu-item menu-item-has-children iti-normal-menu"><a href="admission.html" class="sf-with-ul-pre">Admissions</a>
+                        <li class="menu-item{% if page.menu == 'admission' %} current-menu-item{% endif %} menu-item-has-children iti-normal-menu"><a href="admission.html" class="sf-with-ul-pre">Admissions</a>
                             
                         </li>
-                        <li class="menu-item menu-item-has-children iti-normal-menu"><a href="schedule.html" class="sf-with-ul-pre">Schedules</a>
+                        <li class="menu-item{% if page.menu == 'schedule' %} current-menu-item{% endif %} menu-item-has-children iti-normal-menu"><a href="schedule.html" class="sf-with-ul-pre">Schedules</a>
                         </li>
-                        <li class="menu-item iti-normal-menu"><a href="financial-aid.html">Financial Aid</a></li>
+                        <li class="menu-item{% if page.menu == 'financial' %} current-menu-item{% endif %} iti-normal-menu"><a href="financial-aid.html">Financial Aid</a></li>
 
                     </ul>
                     <div class="iti-navigation-slide-bar" id="iti-navigation-slide-bar"></div>
