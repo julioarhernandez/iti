@@ -1,0 +1,153 @@
+<svg id="book" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1285" height="283" viewBox="0 0 1285 283">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1, .cls-10, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        fill: #030e4e;
+      }
+
+      .cls-1, .cls-10, .cls-11, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        filter: url(#filter-2);
+      }
+
+      .cls-3 {
+        filter: url(#filter-3);
+      }
+
+      .cls-4 {
+        filter: url(#filter-4);
+      }
+
+      .cls-5 {
+        filter: url(#filter-5);
+      }
+
+      .cls-6 {
+        filter: url(#filter-6);
+      }
+
+      .cls-7 {
+        filter: url(#filter-7);
+      }
+
+      .cls-8 {
+        filter: url(#filter-8);
+      }
+
+      .cls-9 {
+        fill: #f4a01c;
+        stroke: #fff;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-10 {
+        filter: url(#filter-9);
+      }
+
+      .cls-11 {
+        fill: #f48c12;
+        filter: url(#filter-10);
+      }
+    </style>
+    <filter id="filter" x="135" y="50" width="115" height="46" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="138" y="27" width="94" height="27" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-3" x="139" y="6" width="71" height="42" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-4" x="15" y="50" width="115" height="46" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-5" x="33" y="27" width="94" height="27" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-6" x="55" y="6" width="71" height="42" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-7" x="15.094" y="114.719" width="84.344" height="144.5" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-8" x="167.313" y="111.938" width="84.312" height="144.5" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-9" x="302.969" y="47.563" width="976.371" height="86.188" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-10" x="302.75" y="157.969" width="978.88" height="72.812" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path class="cls-1" d="M135,60V96L250,54V50S165.517,51.152,135,60Z"/>
+  <path class="cls-2" d="M138,54s72.581-13.758,90-9l4-18S148.436,47,138,54Z"/>
+  <path class="cls-3" d="M139,48s43.867-17.591,69-20l2-22S146.926,37.7,139,48Z"/>
+  <path id="Shape_5_copy" data-name="Shape 5 copy" class="cls-4" d="M130,60V96L15,54V50S99.483,51.152,130,60Z"/>
+  <path id="Shape_6_copy" data-name="Shape 6 copy" class="cls-5" d="M127,54S54.419,40.242,37,45L33,27S116.564,47,127,54Z"/>
+  <path id="Shape_7_copy" data-name="Shape 7 copy" class="cls-6" d="M126,48S82.133,30.409,57,28L55,6S118.074,37.7,126,48Z"/>
+  <path class="cls-7" d="M15.107,125.017l41.282-10.286L99.434,118.9,87.845,249.48,58.763,259.2,33.211,199.47Z"/>
+  <path id="Shape_4_copy" data-name="Shape 4 copy" class="cls-8" d="M251.639,122.239l-41.282-10.286-43.044,4.168L178.9,246.7l29.082,9.724,25.552-59.734Z"/>
+  <path class="cls-9" d="M15.107,241.145V125.017l43.655,14.719V259.2Z"/>
+  <path id="Shape_3_copy" data-name="Shape 3 copy" class="cls-9" d="M251.639,238.367V122.239l-43.655,14.719V256.426Z"/>
+  <path class="cls-9" d="M15.107,51.793L15,102.229l68.158,22.788V266.15l50.075,12.855V93.789Z"/>
+  <path id="Shape_1_copy" data-name="Shape 1 copy" class="cls-9" d="M249.984,51.793l0.107,50.436-68.158,22.788V266.15l-50.075,12.855V93.789Z"/>
+  <path id="INTERAMERICAN" class="cls-10" d="M302.982,49.314v82.7h21.461v-82.7H302.982Zm87.2,0V86.553l-12.03-37.239H360.2v82.7h17.944V94.42l11.164,37.6h18.81v-82.7H390.177Zm50.033,0V65.865H452.9v66.151h21.461V65.865H487.11V49.314h-46.9Zm78.938,82.7h37.213V115.465H540.609V97.28h13.407V81.547H540.609V65.865h14.325V49.314H519.148v82.7Zm70.526,0h21.461V94.726q4.436,0,5.48,1.584t1.045,8.225v27.482h19.933V110.2q0-10.011-.536-12.234a12.676,12.676,0,0,0-2.727-4.878q-2.193-2.655-8.564-4.24,7.035-.663,9.431-3.984t2.4-12.975q0-10.574-3.39-15.4a14.163,14.163,0,0,0-8.769-6q-5.379-1.174-20.569-1.175H589.674v82.7ZM616.259,64.69q1.4,1.226,1.4,5.159V74.4q0,5.467-1.452,6.462t-5.073,1V63.464Q614.857,63.464,616.259,64.69Zm62.866-15.376-10.947,82.7h22.188l1.29-14.865h7.677l1.152,14.865h21.933l-12.273-82.7h-31.02Zm12.258,53.176q0.838-10.98,4.119-34.735,1.638,20.686,3.269,34.735h-7.388ZM791.5,49.314l-4.932,38.618L783.524,66.9q-1.312-10.124-2.547-17.582h-27.77v82.7h18.76l0.025-54.556,7.876,54.556h13.3l7.468-55.833,0.026,55.833h18.759v-82.7H791.5Zm63.682,82.7H892.4V115.465H876.647V97.28h13.407V81.547H876.647V65.865h14.325V49.314H855.186v82.7Zm70.526,0h21.461V94.726q4.436,0,5.48,1.584t1.046,8.225v27.482h19.932V110.2q0-10.011-.536-12.234a12.676,12.676,0,0,0-2.727-4.878q-2.193-2.655-8.564-4.24,7.035-.663,9.431-3.984t2.4-12.975q0-10.574-3.39-15.4a14.164,14.164,0,0,0-8.768-6q-5.379-1.174-20.57-1.175H925.712v82.7ZM952.3,64.69q1.4,1.226,1.4,5.159V74.4q0,5.467-1.453,6.462t-5.073,1V63.464Q950.895,63.464,952.3,64.69Zm56.783-15.376v82.7h21.47v-82.7h-21.47Zm107.34,28.156q0-11.58-1.94-17.063t-8.11-9.157q-6.165-3.673-15.65-3.673a30.358,30.358,0,0,0-12.36,2.375,20.346,20.346,0,0,0-8.41,6.513,18.721,18.721,0,0,0-3.64,8.607,106.886,106.886,0,0,0-.62,13.409v24.162q0,12.157,1.99,18.21a16.647,16.647,0,0,0,8.11,9.476q6.12,3.421,15.55,3.422,9.06,0,15.26-4.041t8.01-9.413q1.8-5.371,1.81-18.211V98.864h-21.47v10.4q0,6.81-.73,8.654a3.026,3.026,0,0,1-3.14,1.843q-2.5,0-3.21-1.839t-0.72-7.867V71.637q0-6.283.72-8.173c0.47-1.259,1.6-1.89,3.36-1.89,1.57,0,2.58.519,3.04,1.555s0.68,3.645.68,7.824V85.327h21.47V77.471Zm40.92-28.156-10.95,82.7h22.19l1.29-14.865h7.67l1.16,14.865h21.93l-12.27-82.7h-31.02Zm12.25,53.176q0.84-10.98,4.12-34.735,1.65,20.686,3.27,34.735h-7.39Zm91.8-53.176V86.553l-12.03-37.239h-17.94v82.7h17.94V94.42l11.17,37.6h18.81v-82.7h-17.95Z"/>
+  <path id="TECHNICAL_INSTITUTE" data-name="TECHNICAL  INSTITUTE" class="cls-11" d="M324.164,229.643h9.188V166.864h21.51v-7.742h-52.1v7.742h21.406v62.779Zm74.649-40.6H371.456V166.76H400.38v-7.638H362.372v70.521h39.574v-7.638h-30.49V196.58h27.357v-7.534Zm61.911,31.075c-3.655,1.779-9.293,2.93-14.827,2.93-17.125,0-27.044-11.091-27.044-28.355,0-18.519,10.964-29.087,27.461-29.087a33.018,33.018,0,0,1,14.2,2.93l2.193-7.429c-2.4-1.256-7.936-3.139-16.707-3.139-21.823,0-36.755,14.962-36.755,37.039,0,23.123,14.932,35.679,34.771,35.679,8.562,0,15.245-1.674,18.586-3.348Zm12.937-61v70.521h9.085V196.58h34.039v33.063h9.189V159.122h-9.189v29.506H482.746V159.122h-9.085Zm76.318,70.521V199.509c0-11.718-.209-20.193-0.731-29.087l0.314-.1a224.013,224.013,0,0,0,13.156,23.542l22.345,35.784h9.189V159.122H585.69v29.506c0,10.986.209,19.566,1.044,28.982l-0.209.1A199.639,199.639,0,0,0,573.891,194.8l-22.554-35.679h-9.92v70.521h8.562Zm59.82-70.521v70.521h9.084V159.122H609.8Zm71.939,61c-3.654,1.779-9.293,2.93-14.827,2.93-17.124,0-27.044-11.091-27.044-28.355,0-18.519,10.964-29.087,27.462-29.087a33.013,33.013,0,0,1,14.2,2.93l2.193-7.429c-2.4-1.256-7.935-3.139-16.706-3.139-21.824,0-36.755,14.962-36.755,37.039,0,23.123,14.931,35.679,34.771,35.679,8.562,0,15.244-1.674,18.586-3.348Zm49.692-12.66,7.518,22.182h9.711l-24.016-70.521H713.679l-23.911,70.521h9.4l7.31-22.182H731.43Zm-23.076-7.115,6.892-20.4c1.357-4.29,2.506-8.579,3.55-12.765h0.209c1.044,4.081,2.088,8.266,3.654,12.87l6.892,20.3h-21.2Zm50.32,29.3H797.83v-7.638H767.758V159.122h-9.084v70.521Zm92.6-70.521v70.521h9.084V159.122h-9.084Zm33.2,70.521V199.509c0-11.718-.209-20.193-0.731-29.087l0.313-.1a223.846,223.846,0,0,0,13.157,23.542l22.345,35.784h9.188V159.122h-8.562v29.506c0,10.986.209,19.566,1.044,28.982l-0.208.1A199.81,199.81,0,0,0,908.386,194.8l-22.554-35.679h-9.919v70.521h8.562Zm56.269-3.453c3.759,2.511,11.173,4.5,17.96,4.5,16.6,0,24.642-9.417,24.642-20.3,0-10.359-6.056-16.113-17.959-20.717-9.711-3.767-13.992-7.01-13.992-13.6,0-4.813,3.654-10.568,13.261-10.568a27.991,27.991,0,0,1,13.365,3.348l2.506-7.428c-3.132-1.779-8.353-3.453-15.558-3.453-13.679,0-22.763,8.161-22.763,19.147,0,9.94,7.1,15.9,18.586,19.985,9.5,3.662,13.261,7.428,13.261,14.02,0,7.115-5.429,12.033-14.723,12.033a32.147,32.147,0,0,1-16.289-4.6Zm68.076,3.453H1018V166.864h21.51v-7.742h-52.1v7.742h21.409v62.779Zm38.2-70.521v70.521h9.09V159.122h-9.09Zm38.01,70.521h9.19V166.864h21.51v-7.742h-52.11v7.742h21.41v62.779Zm38.1-70.521V200.66c0,21.868,10.86,30.134,25.27,30.134,15.25,0,26.63-8.894,26.63-30.552v-41.12h-9.19v41.747c0,15.59-6.68,22.5-17.13,22.5-9.39,0-16.39-6.7-16.39-22.5V159.122h-9.19Zm80.71,70.521h9.18V166.864h21.51v-7.742h-52.1v7.742h21.41v62.779Zm74.65-40.6h-27.36V166.76h28.92v-7.638h-38.01v70.521h39.58v-7.638h-30.49V196.58h27.36v-7.534Z"/>
+</svg>
