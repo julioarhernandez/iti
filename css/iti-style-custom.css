@@ -325,7 +325,7 @@ body.iti-boxed .iti-body-wrapper, .gdlr-core-page-builder .gdlr-core-page-builde
 .iti-body, .iti-body span.wpcf7-not-valid-tip{ color: #6b6b6b; } 
 .iti-body h1, .iti-body h2, .iti-body h3, .iti-body h4, .iti-body h5, .iti-body h6{ color: #161616; }.woocommerce table.shop_attributes th, .woocommerce table.shop_table th, .single-product.woocommerce div.product .product_meta .iti-head{ color: #161616; } 
 .iti-body a{ color: #545454; } 
-.iti-body a:hover{ color: #60c988; } 
+.iti-body a:hover{ color: #192f59; } 
 .iti-body *{ border-color: #e6e6e6; }.iti-body .gdlr-core-portfolio-single-nav-wrap{ border-color: #e6e6e6; }.gdlr-core-columnize-item .gdlr-core-columnize-item-content{ column-rule-color: #e6e6e6; -moz-column-rule-color: #e6e6e6; -webkit-column-rule-color: #e6e6e6; } 
 .iti-body input, .wpcf7 select, .iti-body textarea{ background-color: #ffffff; } 
 .iti-body input, .wpcf7 select, .iti-body textarea{ border-color: #d7d7d7; } 
@@ -455,12 +455,12 @@ body .gdlr-core-price-table .gdlr-core-price-table-button, body .gdlr-core-price
 .gdlr-core-price-table.gdlr-core-active .gdlr-core-price-table-head{ background-color: var(--yellow-color-light);; background: -webkit-linear-gradient(var(--yellow-color-light);, var(--yellow-color-light);); background: -o-linear-gradient(var(--yellow-color-light);, var(--yellow-color-light);); background: -moz-linear-gradient(var(--yellow-color-light);, var(--yellow-color-light);); background: linear-gradient(var(--yellow-color-light);, var(--yellow-color-light);); } 
 .gdlr-core-price-table.gdlr-core-active .gdlr-core-price-table-icon{ color: #ffffff; } 
 .gdlr-core-price-table.gdlr-core-active .gdlr-core-price-table-title{ color: #ffffff; } 
-.gdlr-core-price-table.gdlr-core-active .gdlr-core-price-table-caption{ color: #085e4d; } 
+.gdlr-core-price-table.gdlr-core-active .gdlr-core-price-table-caption{ color: #192f59; } 
 .gdlr-core-price-table.gdlr-core-active .gdlr-core-price-table-price{ background-color: #f6f6f6; } 
 .gdlr-core-price-table.gdlr-core-active .gdlr-core-price-table-price-number, .gdlr-core-price-table .gdlr-core-price-prefix{ color: #323232; } 
 .gdlr-core-price-table.gdlr-core-active .gdlr-core-price-suffix{ color: #191919; } 
 body .gdlr-core-price-table.gdlr-core-active .gdlr-core-price-table-button, body .gdlr-core-price-table .gdlr-core-price-table-button:hover{ color: #ffffff; } 
-body .gdlr-core-price-table.gdlr-core-active .gdlr-core-price-table-button, body .gdlr-core-price-table .gdlr-core-price-table-button:hover{ background-color: var(--yellow-color-light);; background: -webkit-linear-gradient(#49b777, var(--yellow-color-light);); background: -o-linear-gradient(#49b777, var(--yellow-color-light);); background: -moz-linear-gradient(#49b777, var(--yellow-color-light);); background: linear-gradient(#49b777, var(--yellow-color-light);); } 
+body .gdlr-core-price-table.gdlr-core-active .gdlr-core-price-table-button, body .gdlr-core-price-table .gdlr-core-price-table-button:hover{ background-color: var(--yellow-color-light);; background: -webkit-linear-gradient(#192f59, var(--yellow-color-light);); background: -o-linear-gradient(#49b777, var(--yellow-color-light);); background: -moz-linear-gradient(#49b777, var(--yellow-color-light);); background: linear-gradient(#49b777, var(--yellow-color-light);); } 
 .gdlr-core-accordion-style-icon .gdlr-core-accordion-item-icon, .gdlr-core-accordion-style-box-icon .gdlr-core-accordion-item-icon, .gdlr-core-toggle-box-style-icon .gdlr-core-toggle-box-item-icon, .gdlr-core-toggle-box-style-box-icon .gdlr-core-toggle-box-item-icon{ color: var(--yellow-color-light);; } 
 .gdlr-core-accordion-style-icon .gdlr-core-accordion-item-title .gdlr-core-head, .gdlr-core-accordion-style-box-icon .gdlr-core-accordion-item-title .gdlr-core-head, .gdlr-core-toggle-box-style-icon .gdlr-core-toggle-box-item-title .gdlr-core-head, .gdlr-core-toggle-box-style-box-icon .gdlr-core-toggle-box-item-title .gdlr-core-head{ color: var(--yellow-color-light);; } 
 .gdlr-core-accordion-style-icon .gdlr-core-accordion-item-title, .gdlr-core-accordion-style-box-icon .gdlr-core-accordion-item-title, .gdlr-core-toggle-box-style-icon .gdlr-core-toggle-box-item-title, .gdlr-core-toggle-box-style-box-icon .gdlr-core-toggle-box-item-title{ color: var(--yellow-color-light);; } 
