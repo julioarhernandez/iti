@@ -141,6 +141,12 @@ ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-list li a:before{ margin-le
 	.gdlr-core-tab-style1-horizontal .gdlr-core-tab-item-title, 
 	.gdlr-core-tab-style1-horizontal .gdlr-core-tab-item-title.gdlr-core-active{ padding: 15px 9px; }
 }
+@media only screen and (min-width: 768px) and (max-width: 1024px){
+	.gdlr-core-tab-style1-horizontal .gdlr-core-tab-item-title.gdlr-core-active,
+	.gdlr-core-tab-style1-horizontal .gdlr-core-tab-item-title{ padding: 20px 20px 16px; }
+	.gdlr-core-tab-style1-horizontal .gdlr-core-tab-item-content{ padding: 25px 25px }
+	.gdlr-core-pad{ padding: 30px 20px !important}
+}
 
 
 body .gdlr-core-blog-quote-format.gdlr-core-small .gdlr-core-blog-quote{ font-size: 80px; margin-bottom: -25px; }

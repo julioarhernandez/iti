@@ -38,6 +38,14 @@
 .gdlr-core-column-60{ float: none; width: 100%; }
 .gdlr-core-column-first{ clear: left; }
 
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px){
+	.gdlr-core-column-60-md{ float: none; width: 100%; }
+	.gdlr-core-column-30-md{ float: left; width: 50%; }
+	.gdlr-core-column-20-md{ float: left; width: 33.3333%; }
+	.gdlr-core-column-15-md{ float: left; width: 25%; }
+}
+
+
 .gdlr-core-pbf-wrapper{ clear: both; padding: 60px 0px 30px; position: relative; }
 .gdlr-core-pbf-wrapper.gdlr-core-wrapper-centering{ padding-top: 0px; padding-bottom: 0px; }
 .gdlr-core-pbf-wrapper-container,
