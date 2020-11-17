@@ -19,7 +19,7 @@ input, textarea{ border-bottom-width: 1px; }
 .gdlr-core-twitter-item .gdlr-core-twitter-item-list-content{ font-size: 14px; }
 
 .gdlr-core-tab-item .gdlr-core-tab-item-title{ font-size: 17px; font-weight: 700; text-transform: none; letter-spacing: 0px; }
-.gdlr-core-tab-style1-horizontal .gdlr-core-tab-item-title{ border: 0px; margin-left: 0px; padding: 24px 40px 24px; }
+.gdlr-core-tab-style1-horizontal .gdlr-core-tab-item-title{ border: 0px; margin-left: 0px; padding: 24px 28px 24px; }
 .gdlr-core-tab-style1-horizontal .gdlr-core-tab-item-title.gdlr-core-active{ margin-bottom: 0px; padding: 24px 40px 24px; }
 .gdlr-core-tab-style1-horizontal .gdlr-core-tab-item-title-wrap{ border: 0px; }
 .gdlr-core-tab-style1-horizontal .gdlr-core-tab-item-content{ padding: 67px 59px 45px; background-repeat: no-repeat; }
@@ -127,7 +127,7 @@ ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-list li a:before{ margin-le
 
 @media only screen and (max-width: 1260px){
 	.gdlr-core-tab-style1-horizontal .gdlr-core-tab-item-title.gdlr-core-active,
-	.gdlr-core-tab-style1-horizontal .gdlr-core-tab-item-title{ padding: 20px 25px 16px; }
+	.gdlr-core-tab-style1-horizontal .gdlr-core-tab-item-title{ padding: 20px 14px 16px; }
 	.gdlr-core-tab-style1-horizontal .gdlr-core-tab-item-content{ padding: 25px 25px }
 }
 @media only screen and (max-width: 999px){
@@ -143,7 +143,7 @@ ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-list li a:before{ margin-le
 }
 @media only screen and (min-width: 768px) and (max-width: 1024px){
 	.gdlr-core-tab-style1-horizontal .gdlr-core-tab-item-title.gdlr-core-active,
-	.gdlr-core-tab-style1-horizontal .gdlr-core-tab-item-title{ padding: 20px 20px 16px; }
+	.gdlr-core-tab-style1-horizontal .gdlr-core-tab-item-title{ padding: 20px 15px 16px; }
 	.gdlr-core-tab-style1-horizontal .gdlr-core-tab-item-content{ padding: 25px 25px }
 	.gdlr-core-pad{ padding: 30px 20px !important}
 }
