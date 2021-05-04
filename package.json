@@ -1,0 +1,37 @@
+{
+  "name": "ssg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "ELEVENTY_PRODUCTION=true eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julioarhernandez/ssg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julioarhernandez/ssg/issues"
+  },
+  "homepage": "https://github.com/julioarhernandez/ssg#readme",
+  "devDependencies": {
+    "@11ty/eleventy-navigation": "^0.1.6",
+    "@fullhuman/postcss-purgecss": "^3.0.0",
+    "autoprefixer": "^9.8.6",
+    "browser-sync": "^2.26.3",
+    "cssnano": "^4.1.10",
+    "embed-json": "^1.2.0",
+    "npm-run-all": "^4.1.5",
+    "luxon": "^1.26.0"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^0.11.0",
+    "@11ty/eleventy-img": "^0.2.5",
+    "@quasibit/eleventy-plugin-sitemap": "^2.0.3",
+    "html-minifier": "^4.0.0",
+    "plugins": "^0.4.2"
+  }
+}
