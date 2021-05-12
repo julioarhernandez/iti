@@ -9,13 +9,13 @@
 
 # Project structure
 
-**Pages** folder is just a copy of html template for this theme. Do not change those files.
+**Pages** folder is just a copy of html template for this theme. **DO NOT CHANGE THESE FILES**.
 **Src** folder contains the important files.
 
 ## Source Folder
 
-At **SRC** folder you can find the website pages. *Index.njk* would be the homepage. 
-
+At **SRC** folder you can find the website pages. *Index.njk* would be the homepage.
+https://github.com/julioarhernandez/iti/blob/master/src/index.njk
 
 ## Page Data, Front Matter
 
@@ -30,9 +30,9 @@ menu: home
 ---
 ```
 
-Title: Title of the page
-Description: Meta Description of the page
-menu: The name of the page in the main menu
+- Title: Title of the page
+- Description: Meta Description of the page
+- menu: The name of the page in the main menu
 
 ## Analytics and Google tag manager
 
