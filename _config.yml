@@ -50,4 +50,4 @@ defaults:
 #   - vendor/ruby/
 
 gems: 
-      - jekyll-sitemap
+     - jekyll-sitemap
