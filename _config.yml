@@ -48,3 +48,6 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+gems: 
+      - jekyll-sitemap
