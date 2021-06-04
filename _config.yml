@@ -49,6 +49,4 @@ defaults:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-url: "https://www.iti.edu/" # the base hostname & protocol for your site
-plugins:
-  - jekyll-sitemap
+
