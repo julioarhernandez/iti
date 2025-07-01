@@ -1,0 +1,238 @@
+[
+    {
+        "front": "What is Web Development?",
+        "back": "The process of building and maintaining websites, including front-end and back-end components."
+    },
+    {
+        "front": "What is the difference between front-end and back-end development?",
+        "back": "Front-end deals with the user interface and experience, while back-end handles data processing and server-side logic."
+    },
+    {
+        "front": "What does HTML stand for?",
+        "back": "HTML stands for HyperText Markup Language."
+    },
+    {
+        "front": "What is the purpose of HTML?",
+        "back": "HTML structures the content of a web page using elements and tags."
+    },
+    {
+        "front": "What does a basic HTML document include?",
+        "back": "<!DOCTYPE html>, <html>, <head>, and <body> tags."
+    },
+    {
+        "front": "What is a tag in HTML?",
+        "back": "Tags are keywords enclosed in angle brackets that define elements in a webpage."
+    },
+    {
+        "front": "What is an attribute in HTML?",
+        "back": "Attributes provide additional information about HTML elements, such as class, id, or href."
+    },
+    {
+        "front": "What does the <a> tag do?",
+        "back": "Creates a hyperlink to another webpage or resource."
+    },
+    {
+        "front": "What does the <img> tag do?",
+        "back": "Embeds an image in a webpage."
+    },
+    {
+        "front": "What does the <div> tag represent?",
+        "back": "A division or container used to group content and apply styling."
+    },
+    {
+        "front": "What is CSS?",
+        "back": "CSS stands for Cascading Style Sheets and is used to style HTML elements."
+    },
+    {
+        "front": "What are the three ways to apply CSS?",
+        "back": "Inline, internal (in <style> tag), and external (via a .css file)."
+    },
+    {
+        "front": "What is a CSS selector?",
+        "back": "A selector targets HTML elements to apply styles."
+    },
+    {
+        "front": "What is a class selector in CSS?",
+        "back": "A class selector targets elements with a specific class using the dot (.) prefix."
+    },
+    {
+        "front": "What is an ID selector in CSS?",
+        "back": "Targets a specific element by its ID using the hash (#) prefix."
+    },
+    {
+        "front": "What is the box model in CSS?",
+        "back": "Describes how padding, border, and margin affect an element’s layout."
+    },
+    {
+        "front": "What are pseudo-classes in CSS?",
+        "back": "They define the special state of an element, like :hover or :nth-child()."
+    },
+    {
+        "front": "What is responsive design?",
+        "back": "A design approach that adapts layout to different screen sizes and devices."
+    },
+    {
+        "front": "What are media queries?",
+        "back": "CSS rules that apply styles based on screen properties like width or resolution."
+    },
+    {
+        "front": "What is Flexbox?",
+        "back": "A CSS layout model that arranges elements in a flexible and predictable way."
+    },
+    {
+        "front": "What is Grid in CSS?",
+        "back": "A powerful layout system that allows two-dimensional positioning of items."
+    },
+    {
+        "front": "How do you add a video in HTML?",
+        "back": "Using the <video> tag with <source> elements inside it."
+    },
+    {
+        "front": "What is semantic HTML?",
+        "back": "Using HTML tags that convey the meaning of the content, like <header>, <article>, or <footer>."
+    },
+    {
+        "front": "Why is accessibility important in web development?",
+        "back": "To ensure all users, including those with disabilities, can access and navigate websites."
+    },
+    {
+        "front": "What is JavaScript?",
+        "back": "A programming language used to create interactive and dynamic behavior on web pages."
+    },
+    {
+        "front": "How do you declare a variable in JavaScript?",
+        "back": "Using let, const, or var (e.g., let x = 10;)."
+    },
+    {
+        "front": "What is the DOM?",
+        "back": "The Document Object Model represents the structure of a web page as a tree of objects."
+    },
+    {
+        "front": "How do you select an element in JavaScript?",
+        "back": "Using methods like document.getElementById() or document.querySelector()."
+    },
+    {
+        "front": "What is an event listener?",
+        "back": "A function that waits and responds to user actions like clicks or key presses."
+    },
+    {
+        "front": "What is form validation?",
+        "back": "Checking that user input meets specific criteria before submission."
+    },
+    {
+        "front": "What is AJAX?",
+        "back": "Asynchronous JavaScript and XML — used to load data without refreshing the page."
+    },
+    {
+        "front": "What is JSON?",
+        "back": "JavaScript Object Notation — a lightweight format for data exchange."
+    },
+    {
+        "front": "What is a JavaScript library?",
+        "back": "A collection of pre-written JavaScript code to simplify development tasks."
+    },
+    {
+        "front": "What is jQuery?",
+        "back": "A popular JavaScript library that simplifies DOM manipulation and event handling."
+    },
+    {
+        "front": "What is a JavaScript framework?",
+        "back": "A structure for organizing code, offering tools and patterns (e.g., React, Vue, Angular)."
+    },
+    {
+        "front": "What is React?",
+        "back": "A JavaScript library for building user interfaces, especially single-page applications."
+    },
+    {
+        "front": "What are components in React?",
+        "back": "Reusable, independent pieces of UI built using JavaScript functions or classes."
+    },
+    {
+        "front": "What is a server?",
+        "back": "A computer that responds to requests from clients (like browsers) over the internet."
+    },
+    {
+        "front": "What is server-side programming?",
+        "back": "Writing code that runs on the server to handle requests, process data, and return responses."
+    },
+    {
+        "front": "What is Node.js?",
+        "back": "A runtime that allows JavaScript to be run outside the browser, commonly on servers."
+    },
+    {
+        "front": "What is Express.js?",
+        "back": "A minimalist web framework for Node.js used to build server-side applications."
+    },
+    {
+        "front": "What is a database?",
+        "back": "A structured collection of data that can be accessed, managed, and updated."
+    },
+    {
+        "front": "What is SQL?",
+        "back": "Structured Query Language — used to interact with relational databases."
+    },
+    {
+        "front": "What is MongoDB?",
+        "back": "A NoSQL database that stores data in JSON-like documents."
+    },
+    {
+        "front": "What is an API?",
+        "back": "Application Programming Interface — a way for applications to communicate with each other."
+    },
+    {
+        "front": "What is REST?",
+        "back": "Representational State Transfer — an architectural style for designing web APIs."
+    },
+    {
+        "front": "What are HTTP methods?",
+        "back": "Actions like GET, POST, PUT, DELETE used to communicate with servers."
+    },
+    {
+        "front": "What is authentication?",
+        "back": "The process of verifying a user's identity before granting access."
+    },
+    {
+        "front": "What is authorization?",
+        "back": "Determining what resources a verified user is allowed to access."
+    },
+    {
+        "front": "What is a Capstone Project in web development?",
+        "back": "A final project that integrates all course topics into a practical, real-world application."
+    },
+    {
+        "front": "What is Git?",
+        "back": "A version control system that tracks changes in code and supports collaboration."
+    },
+    {
+        "front": "What is GitHub?",
+        "back": "A platform for hosting and collaborating on Git repositories."
+    },
+    {
+        "front": "What is a commit in Git?",
+        "back": "A saved snapshot of your project with a description of the changes."
+    },
+    {
+        "front": "What is a branch in Git?",
+        "back": "A separate line of development, allowing multiple features to be developed in parallel."
+    },
+    {
+        "front": "What is deployment?",
+        "back": "The process of making a web application accessible on the internet."
+    },
+    {
+        "front": "What is Netlify?",
+        "back": "A platform for deploying static websites with continuous deployment support."
+    },
+    {
+        "front": "What is Heroku?",
+        "back": "A platform as a service (PaaS) that lets developers deploy back-end applications."
+    },
+    {
+        "front": "What is mobile-first design?",
+        "back": "A design strategy that starts with optimizing the site for mobile devices before scaling up."
+    },
+    {
+        "front": "What are best practices for web development?",
+        "back": "Clean code, semantic HTML, accessibility, performance optimization, and responsive design."
+    }
+]

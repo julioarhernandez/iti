@@ -1,0 +1,226 @@
+[
+    {
+        "front": "What is database security?",
+        "back": "The practice of protecting databases against threats such as unauthorized access, misuse, or corruption."
+    },
+    {
+        "front": "Why is database security important?",
+        "back": "To ensure the confidentiality, integrity, and availability of data."
+    },
+    {
+        "front": "What is database authentication?",
+        "back": "The process of verifying the identity of users accessing the database."
+    },
+    {
+        "front": "What is authorization in databases?",
+        "back": "Defining and controlling the access rights of authenticated users."
+    },
+    {
+        "front": "What is database encryption?",
+        "back": "The process of converting data into a secure format that requires a key to decrypt."
+    },
+    {
+        "front": "What is transparent data encryption (TDE)?",
+        "back": "A feature that encrypts the entire database at the storage level."
+    },
+    {
+        "front": "What is column-level encryption?",
+        "back": "Encrypting specific columns within a database, such as credit card numbers."
+    },
+    {
+        "front": "What is database auditing?",
+        "back": "Tracking database activity to detect unauthorized or abnormal actions."
+    },
+    {
+        "front": "What are database logs?",
+        "back": "Files that record database operations for monitoring and recovery purposes."
+    },
+    {
+        "front": "What is indexing?",
+        "back": "A technique that improves data retrieval speed by creating pointers to data."
+    },
+    {
+        "front": "What is a B-tree index?",
+        "back": "A balanced tree index commonly used in databases to maintain sorted data."
+    },
+    {
+        "front": "What is a bitmap index?",
+        "back": "An index that uses bitmaps and is efficient for low-cardinality columns."
+    },
+    {
+        "front": "What is a covering index?",
+        "back": "An index that contains all the columns required by a query."
+    },
+    {
+        "front": "What is performance tuning?",
+        "back": "Optimizing database configurations, queries, and structures to improve performance."
+    },
+    {
+        "front": "What are query execution plans?",
+        "back": "Visual or textual representations of how a database will execute a query."
+    },
+    {
+        "front": "What is database monitoring?",
+        "back": "Tracking database metrics such as CPU usage, memory, query performance, and errors."
+    },
+    {
+        "front": "What are some common performance monitoring tools?",
+        "back": "Examples: Oracle Enterprise Manager, pgAdmin, MySQL Workbench, Prometheus."
+    },
+    {
+        "front": "What is backup in databases?",
+        "back": "The process of creating a copy of data to restore in case of data loss."
+    },
+    {
+        "front": "What is a full backup?",
+        "back": "A complete copy of the entire database."
+    },
+    {
+        "front": "What is an incremental backup?",
+        "back": "Only backs up data that has changed since the last backup."
+    },
+    {
+        "front": "What is a differential backup?",
+        "back": "Backs up all data that has changed since the last full backup."
+    },
+    {
+        "front": "What is recovery in databases?",
+        "back": "Restoring a database to a previous state after data loss or corruption."
+    },
+    {
+        "front": "What is high availability in databases?",
+        "back": "Ensuring that the database is accessible and operational at all times with minimal downtime."
+    },
+    {
+        "front": "What is database replication?",
+        "back": "Copying data from one database to another to ensure redundancy and availability."
+    },
+    {
+        "front": "What is database clustering?",
+        "back": "Combining multiple servers into a single system to provide scalability and fault tolerance."
+    },
+    {
+        "front": "What is disaster recovery?",
+        "back": "The process of restoring system functionality after a catastrophic failure."
+    },
+    {
+        "front": "What is a disaster recovery plan?",
+        "back": "A documented approach to recover systems and data in the event of disaster."
+    },
+    {
+        "front": "What is failover?",
+        "back": "Automatic switching to a standby system when the primary system fails."
+    },
+    {
+        "front": "What is database automation?",
+        "back": "Using tools and scripts to automate database maintenance tasks like backups, updates, and monitoring."
+    },
+    {
+        "front": "What is configuration management in databases?",
+        "back": "Tracking and controlling changes in database settings and versions."
+    },
+    {
+        "front": "What is scalability in database systems?",
+        "back": "The ability of a system to handle increasing workloads by adding resources."
+    },
+    {
+        "front": "What is vertical scaling?",
+        "back": "Increasing resources (CPU, RAM) on a single server."
+    },
+    {
+        "front": "What is horizontal scaling?",
+        "back": "Adding more servers to distribute load across multiple machines."
+    },
+    {
+        "front": "What is performance testing?",
+        "back": "Testing a system’s responsiveness, stability, and speed under load."
+    },
+    {
+        "front": "What is stress testing?",
+        "back": "Testing the system under extreme conditions to identify breaking points."
+    },
+    {
+        "front": "What is advanced SQL?",
+        "back": "Includes complex queries, subqueries, CTEs, window functions, and performance tuning techniques."
+    },
+    {
+        "front": "What is a CTE (Common Table Expression)?",
+        "back": "A named temporary result set used to simplify complex queries using the WITH clause."
+    },
+    {
+        "front": "What are window functions?",
+        "back": "Functions that perform calculations across rows related to the current row."
+    },
+    {
+        "front": "What is a recursive query?",
+        "back": "A query that calls itself repeatedly to return hierarchical or tree-structured data."
+    },
+    {
+        "front": "What is data modeling?",
+        "back": "The process of creating a visual representation of a database’s structure and relationships."
+    },
+    {
+        "front": "What is logical data modeling?",
+        "back": "Defines entities, attributes, and relationships without considering physical implementation."
+    },
+    {
+        "front": "What is physical data modeling?",
+        "back": "Details how data is stored physically in the database, including tables, indexes, and keys."
+    },
+    {
+        "front": "What is a data dictionary?",
+        "back": "A centralized repository of information about data such as meaning, relationships, and formats."
+    },
+    {
+        "front": "What is a NoSQL database?",
+        "back": "A non-relational database designed for distributed, large-scale data storage and retrieval."
+    },
+    {
+        "front": "What is a document store?",
+        "back": "A type of NoSQL database that stores data in JSON-like documents (e.g., MongoDB)."
+    },
+    {
+        "front": "What is a key-value store?",
+        "back": "A simple NoSQL database that uses key-value pairs for storing data."
+    },
+    {
+        "front": "What is a NewSQL database?",
+        "back": "A modern relational database that offers SQL features with NoSQL-like scalability."
+    },
+    {
+        "front": "What is data warehousing?",
+        "back": "A system for storing and analyzing large volumes of historical data for reporting and decision making."
+    },
+    {
+        "front": "What is OLAP?",
+        "back": "Online Analytical Processing — supports complex queries for business intelligence and reporting."
+    },
+    {
+        "front": "What are OLAP cubes?",
+        "back": "Multidimensional data structures that allow fast analysis of large data sets."
+    },
+    {
+        "front": "What is a cloud database?",
+        "back": "A database that runs on cloud computing platforms like AWS, Azure, or Google Cloud."
+    },
+    {
+        "front": "What is database as a service (DBaaS)?",
+        "back": "A cloud-based service that provides access to databases without requiring physical infrastructure management."
+    },
+    {
+        "front": "What is cloud migration?",
+        "back": "The process of moving data, applications, and services from on-premise infrastructure to the cloud."
+    },
+    {
+        "front": "What is multi-cloud strategy?",
+        "back": "Using multiple cloud service providers to distribute risk and increase resilience."
+    },
+    {
+        "front": "What are cloud-native databases?",
+        "back": "Databases designed specifically for cloud environments, optimized for scalability and availability."
+    },
+    {
+        "front": "What is data replication in cloud databases?",
+        "back": "Creating copies of data across regions or zones for high availability and disaster recovery."
+    }
+]

@@ -1,0 +1,234 @@
+[
+    {
+        "front": "What is SDLC?",
+        "back": "Software Development Life Cycle — a structured process used to develop software efficiently and with quality."
+    },
+    {
+        "front": "What are the main phases of SDLC?",
+        "back": "Planning, Requirements, Design, Development, Testing, Deployment, and Maintenance."
+    },
+    {
+        "front": "What is the purpose of the Planning phase?",
+        "back": "To define the project scope, objectives, resources, and high-level timeline."
+    },
+    {
+        "front": "What is Requirements Analysis?",
+        "back": "The process of gathering and analyzing what the users need from a software system."
+    },
+    {
+        "front": "What are functional requirements?",
+        "back": "Specifications of what the system should do, such as features and functions."
+    },
+    {
+        "front": "What are non-functional requirements?",
+        "back": "Qualities of the system like performance, scalability, and security."
+    },
+    {
+        "front": "What is a feasibility study?",
+        "back": "An evaluation to determine if the project is technically and financially viable."
+    },
+    {
+        "front": "What happens in the Project Planning phase?",
+        "back": "Task breakdown, resource allocation, schedule creation, and risk assessment."
+    },
+    {
+        "front": "What is a Gantt chart?",
+        "back": "A visual project management tool that shows the schedule of tasks over time."
+    },
+    {
+        "front": "What is a Work Breakdown Structure (WBS)?",
+        "back": "A hierarchical decomposition of the total scope of work into manageable sections."
+    },
+    {
+        "front": "What is the Design phase in SDLC?",
+        "back": "Translating requirements into technical architecture, system models, and design specs."
+    },
+    {
+        "front": "What is system architecture?",
+        "back": "The conceptual model that defines the structure, behavior, and views of a system."
+    },
+    {
+        "front": "What are wireframes?",
+        "back": "Basic visual representations of user interfaces used in the design phase."
+    },
+    {
+        "front": "What is the purpose of Quality Assurance (QA)?",
+        "back": "To ensure the software meets quality standards and works as intended."
+    },
+    {
+        "front": "What is software testing?",
+        "back": "The process of executing a program to find bugs and verify its functionality."
+    },
+    {
+        "front": "What are the types of software testing?",
+        "back": "Unit testing, integration testing, system testing, acceptance testing."
+    },
+    {
+        "front": "What is a test case?",
+        "back": "A specific condition or set of inputs used to test a feature or function."
+    },
+    {
+        "front": "What is Agile?",
+        "back": "A software development methodology based on iterative development, collaboration, and flexibility."
+    },
+    {
+        "front": "What is the Agile Manifesto?",
+        "back": "A declaration of core values and principles that guide agile development."
+    },
+    {
+        "front": "What are Scrum, Kanban, and XP?",
+        "back": "Popular Agile frameworks used to implement Agile principles in practice."
+    },
+    {
+        "front": "What is a sprint in Scrum?",
+        "back": "A time-boxed iteration, typically 1–4 weeks, where specific work is completed."
+    },
+    {
+        "front": "What is a product backlog?",
+        "back": "A prioritized list of work for the development team derived from the product roadmap."
+    },
+    {
+        "front": "What is a sprint backlog?",
+        "back": "A list of tasks to be completed during the current sprint."
+    },
+    {
+        "front": "What is a daily stand-up?",
+        "back": "A short daily meeting where the team discusses progress, blockers, and goals."
+    },
+    {
+        "front": "What is Lean development?",
+        "back": "An Agile method focused on delivering value quickly and eliminating waste."
+    },
+    {
+        "front": "What is Kanban?",
+        "back": "A visual system for managing work as it moves through a process."
+    },
+    {
+        "front": "What is WIP limit in Kanban?",
+        "back": "A cap on the number of work items in each stage to maintain flow."
+    },
+    {
+        "front": "What is Agile estimation?",
+        "back": "The process of estimating the size and complexity of tasks using methods like story points."
+    },
+    {
+        "front": "What is velocity in Agile?",
+        "back": "A measure of how much work a team can complete in a sprint."
+    },
+    {
+        "front": "What is burndown chart?",
+        "back": "A visual representation of work left to do versus time remaining."
+    },
+    {
+        "front": "What is Agile monitoring?",
+        "back": "Tracking progress through metrics like velocity, burndown charts, and team feedback."
+    },
+    {
+        "front": "What is iterative development?",
+        "back": "Developing software in small increments, allowing for feedback and continuous improvement."
+    },
+    {
+        "front": "What is software implementation?",
+        "back": "The phase where developers write code based on the design and requirements."
+    },
+    {
+        "front": "What are development environments?",
+        "back": "Different setups for development, testing, staging, and production."
+    },
+    {
+        "front": "What is version control?",
+        "back": "A system that records changes to files, allowing multiple developers to collaborate."
+    },
+    {
+        "front": "What is continuous integration (CI)?",
+        "back": "A practice where code is merged and tested frequently to catch issues early."
+    },
+    {
+        "front": "What is continuous delivery (CD)?",
+        "back": "An extension of CI that automates the release of code to production."
+    },
+    {
+        "front": "What is unit testing?",
+        "back": "Testing individual components of a program in isolation."
+    },
+    {
+        "front": "What is test-driven development (TDD)?",
+        "back": "A practice where developers write tests before writing the actual code."
+    },
+    {
+        "front": "What is a software release?",
+        "back": "A version of the software delivered to users or customers."
+    },
+    {
+        "front": "What is deployment planning?",
+        "back": "The process of preparing and executing the release of software into a live environment."
+    },
+    {
+        "front": "What is rollback in deployment?",
+        "back": "Reverting to a previous version of software if the current deployment fails."
+    },
+    {
+        "front": "What is release management?",
+        "back": "The process of managing, scheduling, and controlling software builds through different stages."
+    },
+    {
+        "front": "What is change management?",
+        "back": "A systematic approach to dealing with changes in software or processes."
+    },
+    {
+        "front": "What is DevOps?",
+        "back": "A set of practices that combines software development and IT operations to shorten the development cycle."
+    },
+    {
+        "front": "What is a hotfix?",
+        "back": "A quick fix to address an urgent software bug in production."
+    },
+    {
+        "front": "What is software maintenance?",
+        "back": "The process of updating software after deployment to fix bugs or improve performance."
+    },
+    {
+        "front": "What is scalability in software?",
+        "back": "The ability of software to handle increased loads or users."
+    },
+    {
+        "front": "What is technical debt?",
+        "back": "The cost of shortcuts taken during development that must be paid off with future refactoring."
+    },
+    {
+        "front": "What is a stakeholder?",
+        "back": "Anyone with an interest in the project, including users, clients, and developers."
+    },
+    {
+        "front": "What is documentation in SDLC?",
+        "back": "The written record of requirements, designs, code, tests, and user instructions."
+    },
+    {
+        "front": "What is risk management in projects?",
+        "back": "Identifying, assessing, and mitigating potential problems that could affect project success."
+    },
+    {
+        "front": "What is a project milestone?",
+        "back": "A significant event or deliverable in the project timeline."
+    },
+    {
+        "front": "What is scope creep?",
+        "back": "Uncontrolled changes or continuous growth in a project's scope without adjustments to time or budget."
+    },
+    {
+        "front": "What is user acceptance testing (UAT)?",
+        "back": "The final phase of testing where end users verify the system meets their needs."
+    },
+    {
+        "front": "What is refactoring?",
+        "back": "Improving the structure of existing code without changing its functionality."
+    },
+    {
+        "front": "What is software prototyping?",
+        "back": "Building an early model of the software to gather feedback and refine requirements."
+    },
+    {
+        "front": "What is legacy software?",
+        "back": "Older software that is still in use but may be outdated or difficult to maintain."
+    }
+]

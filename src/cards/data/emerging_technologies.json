@@ -1,0 +1,226 @@
+[
+    {
+        "front": "What are emerging technologies in database management?",
+        "back": "Innovative systems and tools such as cloud databases, NoSQL, blockchain, AI, and quantum computing."
+    },
+    {
+        "front": "What is a cloud database?",
+        "back": "A database service built and accessed through a cloud platform offering scalability and availability."
+    },
+    {
+        "front": "What is a NoSQL system?",
+        "back": "A type of database that provides flexible schemas and supports unstructured or semi-structured data."
+    },
+    {
+        "front": "What are some examples of NoSQL databases?",
+        "back": "MongoDB, Cassandra, Redis, Couchbase, and DynamoDB."
+    },
+    {
+        "front": "What is blockchain?",
+        "back": "A distributed and immutable ledger technology that stores data in linked blocks secured with cryptography."
+    },
+    {
+        "front": "How is blockchain used in database management?",
+        "back": "To ensure data integrity, security, and decentralized control across participants."
+    },
+    {
+        "front": "What is a distributed ledger?",
+        "back": "A database that is consensually shared and synchronized across multiple sites or institutions."
+    },
+    {
+        "front": "What is Hyperledger?",
+        "back": "An open-source project by the Linux Foundation to support blockchain-based distributed ledgers."
+    },
+    {
+        "front": "What is Hyperledger Fabric?",
+        "back": "A permissioned blockchain framework designed for enterprise-grade applications."
+    },
+    {
+        "front": "What are enterprise blockchain applications?",
+        "back": "Blockchain solutions implemented by organizations to improve transparency, traceability, and efficiency."
+    },
+    {
+        "front": "What is edge computing?",
+        "back": "A distributed computing model that brings computation and data storage closer to data sources."
+    },
+    {
+        "front": "How does edge computing improve performance?",
+        "back": "By reducing latency, bandwidth usage, and improving real-time responsiveness."
+    },
+    {
+        "front": "What is IoT?",
+        "back": "Internet of Things — a network of physical devices connected and exchanging data over the internet."
+    },
+    {
+        "front": "What challenges does IoT bring to data management?",
+        "back": "High data volume, velocity, heterogeneity, and the need for low-latency processing."
+    },
+    {
+        "front": "What is quantum computing?",
+        "back": "A type of computing that uses quantum bits (qubits) to perform complex computations faster than classical computers."
+    },
+    {
+        "front": "What is a qubit?",
+        "back": "The basic unit of quantum information, which can represent 0, 1, or both simultaneously due to superposition."
+    },
+    {
+        "front": "What is quantum entanglement?",
+        "back": "A phenomenon where qubits are linked such that the state of one affects the other, regardless of distance."
+    },
+    {
+        "front": "What is a quantum algorithm?",
+        "back": "A set of instructions designed for quantum computers to solve problems more efficiently than classical methods."
+    },
+    {
+        "front": "What is a quantum database?",
+        "back": "A theoretical model where data storage and querying exploit quantum principles for speed and complexity reduction."
+    },
+    {
+        "front": "What is Grover’s algorithm used for?",
+        "back": "Quantum search in unsorted databases, significantly faster than classical algorithms."
+    },
+    {
+        "front": "What is a capstone project in tech courses?",
+        "back": "A final, practical project that demonstrates a student's mastery of course concepts through real-world application."
+    },
+    {
+        "front": "What is AI in databases?",
+        "back": "The application of artificial intelligence to automate, optimize, and enhance database functionalities."
+    },
+    {
+        "front": "How does machine learning integrate with databases?",
+        "back": "By enabling predictive analytics, anomaly detection, query optimization, and smart indexing."
+    },
+    {
+        "front": "What is an AI-driven database platform?",
+        "back": "A system that uses AI to autonomously manage indexing, tuning, scaling, and anomaly detection."
+    },
+    {
+        "front": "What is AutoML?",
+        "back": "Automated Machine Learning — platforms that enable non-experts to train, evaluate, and deploy models."
+    },
+    {
+        "front": "What is anomaly detection?",
+        "back": "Identifying unusual patterns or behaviors in data that deviate from the norm using AI models."
+    },
+    {
+        "front": "What are intelligent query optimizers?",
+        "back": "AI-powered engines that analyze queries and suggest improvements based on past performance."
+    },
+    {
+        "front": "What are emerging trends in database technology?",
+        "back": "Trends include multi-model databases, cloud-native systems, autonomous databases, and decentralized storage."
+    },
+    {
+        "front": "What are multi-model databases?",
+        "back": "Databases that support multiple data models (e.g., document, graph, relational) in a single backend."
+    },
+    {
+        "front": "What is a cloud-native database?",
+        "back": "A database designed specifically to operate in cloud environments with features like autoscaling and redundancy."
+    },
+    {
+        "front": "What is data fabric architecture?",
+        "back": "An architecture that provides unified access and integration across a distributed data environment."
+    },
+    {
+        "front": "What is data mesh?",
+        "back": "A decentralized approach to data architecture where teams own and serve their domain-specific data."
+    },
+    {
+        "front": "What is a zero-trust data architecture?",
+        "back": "A security model requiring strict identity verification for every user and device accessing data."
+    },
+    {
+        "front": "What is an enterprise knowledge graph?",
+        "back": "A semantic model that connects enterprise data with meaning, enabling search and reasoning across systems."
+    },
+    {
+        "front": "How is blockchain used beyond cryptocurrency?",
+        "back": "In supply chains, identity verification, health records, digital voting, and smart contracts."
+    },
+    {
+        "front": "What are smart contracts?",
+        "back": "Self-executing contracts with terms written in code that run on blockchain platforms."
+    },
+    {
+        "front": "What is tokenization in blockchain?",
+        "back": "Converting rights to an asset into a digital token on a blockchain."
+    },
+    {
+        "front": "What is Hyperledger Indy?",
+        "back": "A blockchain framework for decentralized identity management."
+    },
+    {
+        "front": "What is Hyperledger Besu?",
+        "back": "An Ethereum-compatible blockchain platform optimized for enterprise use."
+    },
+    {
+        "front": "What is fog computing?",
+        "back": "An extension of cloud computing that processes data closer to the source in a networked architecture."
+    },
+    {
+        "front": "What is federated learning?",
+        "back": "A machine learning technique where models are trained across multiple devices without sharing raw data."
+    },
+    {
+        "front": "What is serverless architecture?",
+        "back": "A design where applications are run without managing servers, typically event-driven and scalable."
+    },
+    {
+        "front": "What are digital twins?",
+        "back": "Virtual replicas of physical systems used to monitor, simulate, and optimize real-world performance."
+    },
+    {
+        "front": "What is the importance of data provenance?",
+        "back": "It tracks the origin, history, and changes to data, ensuring transparency and auditability."
+    },
+    {
+        "front": "What is quantum supremacy?",
+        "back": "The point at which a quantum computer can perform a task infeasible for classical computers."
+    },
+    {
+        "front": "What is homomorphic encryption?",
+        "back": "A form of encryption that allows computations to be performed on encrypted data without decrypting it."
+    },
+    {
+        "front": "What is synthetic data?",
+        "back": "Artificially generated data that maintains the statistical properties of real data for testing or privacy."
+    },
+    {
+        "front": "What is real-time analytics in distributed systems?",
+        "back": "Immediate analysis of data as it is ingested across distributed nodes to support fast decisions."
+    },
+    {
+        "front": "What is Swarm learning?",
+        "back": "A decentralized AI technique that combines edge computing and blockchain for collaborative learning."
+    },
+    {
+        "front": "What is a decentralized identifier (DID)?",
+        "back": "A globally unique identifier that is created and managed in a decentralized manner using blockchain."
+    },
+    {
+        "front": "What is verifiable credential (VC)?",
+        "back": "A tamper-evident, cryptographically verifiable digital assertion issued by a trusted party."
+    },
+    {
+        "front": "What are innovation challenges in data systems?",
+        "back": "Scalability, security, interoperability, ethics, and maintaining performance with growing complexity."
+    },
+    {
+        "front": "What is ethical AI in data systems?",
+        "back": "The development and use of AI systems in ways that are transparent, fair, and respect human rights."
+    },
+    {
+        "front": "What is an AI-driven recommendation system?",
+        "back": "A system that analyzes user behavior and data to suggest personalized content or actions."
+    },
+    {
+        "front": "What are autonomous databases?",
+        "back": "Self-managing, self-healing, and self-securing databases powered by AI and automation."
+    },
+    {
+        "front": "What are industry applications of modern data systems?",
+        "back": "Healthcare, finance, logistics, education, smart cities, and digital identity management."
+    }
+]

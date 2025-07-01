@@ -1,0 +1,226 @@
+[
+    {
+        "front": "What is a NoSQL database?",
+        "back": "A non-relational database designed for flexible data models, scalability, and high performance."
+    },
+    {
+        "front": "What are the main types of NoSQL databases?",
+        "back": "Document stores, key-value stores, column-family stores, and graph databases."
+    },
+    {
+        "front": "What is a document store?",
+        "back": "A NoSQL database type that stores data in JSON-like documents, e.g., MongoDB."
+    },
+    {
+        "front": "What is a key-value store?",
+        "back": "A database that stores data as a pair of keys and values, e.g., Redis, DynamoDB."
+    },
+    {
+        "front": "What is a column-family store?",
+        "back": "A NoSQL database that stores data in columns rather than rows, e.g., Cassandra."
+    },
+    {
+        "front": "What is a graph database?",
+        "back": "A database optimized for storing and querying relationships between entities, e.g., Neo4j."
+    },
+    {
+        "front": "When should you use NoSQL over SQL?",
+        "back": "When dealing with large volumes of unstructured data, rapid scalability, or flexible schemas."
+    },
+    {
+        "front": "What industries benefit most from NoSQL databases?",
+        "back": "Social media, IoT, real-time analytics, content management, and e-commerce."
+    },
+    {
+        "front": "What is MongoDB?",
+        "back": "A popular document-oriented NoSQL database that uses BSON to store documents."
+    },
+    {
+        "front": "What is a collection in MongoDB?",
+        "back": "A group of MongoDB documents, similar to a table in relational databases."
+    },
+    {
+        "front": "What is a document in MongoDB?",
+        "back": "A data record in MongoDB stored as a JSON-like structure."
+    },
+    {
+        "front": "What is the _id field in MongoDB?",
+        "back": "A unique identifier for each document in a MongoDB collection."
+    },
+    {
+        "front": "How do you insert a document in MongoDB?",
+        "back": "Using db.collection.insertOne(document) or db.collection.insertMany([...])."
+    },
+    {
+        "front": "How do you query data in MongoDB?",
+        "back": "Using db.collection.find(query) to retrieve documents matching criteria."
+    },
+    {
+        "front": "What is an index in MongoDB?",
+        "back": "A structure that improves the speed of data retrieval operations on a collection."
+    },
+    {
+        "front": "What is aggregation in MongoDB?",
+        "back": "A powerful framework to perform data transformation and computation operations on documents."
+    },
+    {
+        "front": "What is a replica set in MongoDB?",
+        "back": "A group of MongoDB servers that maintain the same data to provide redundancy and high availability."
+    },
+    {
+        "front": "What is sharding in MongoDB?",
+        "back": "A method for distributing data across multiple machines for horizontal scalability."
+    },
+    {
+        "front": "What are other NoSQL databases?",
+        "back": "Examples include Couchbase, Cassandra, Redis, Amazon DynamoDB, and Neo4j."
+    },
+    {
+        "front": "What is Big Data?",
+        "back": "Data that is too large, fast, or complex for traditional systems to handle efficiently."
+    },
+    {
+        "front": "What are the 3 Vs of Big Data?",
+        "back": "Volume, Velocity, and Variety."
+    },
+    {
+        "front": "What are common Big Data use cases?",
+        "back": "Real-time analytics, fraud detection, recommendation systems, and social network analysis."
+    },
+    {
+        "front": "What is Hadoop?",
+        "back": "An open-source framework for distributed storage and processing of big data using MapReduce."
+    },
+    {
+        "front": "What is HDFS?",
+        "back": "Hadoop Distributed File System — used to store large datasets reliably across machines."
+    },
+    {
+        "front": "What is MapReduce?",
+        "back": "A programming model in Hadoop for processing and generating large data sets with parallel algorithms."
+    },
+    {
+        "front": "What is YARN?",
+        "back": "Yet Another Resource Negotiator — manages resources and job scheduling in Hadoop."
+    },
+    {
+        "front": "What is Apache Spark?",
+        "back": "A fast, in-memory data processing engine for big data analytics, compatible with Hadoop."
+    },
+    {
+        "front": "How does Spark differ from Hadoop?",
+        "back": "Spark processes data in memory, making it much faster than Hadoop’s disk-based MapReduce."
+    },
+    {
+        "front": "What is RDD in Spark?",
+        "back": "Resilient Distributed Dataset — a fault-tolerant collection of elements for parallel processing."
+    },
+    {
+        "front": "What is Spark SQL?",
+        "back": "A Spark module for structured data processing using SQL queries."
+    },
+    {
+        "front": "What is distributed computing?",
+        "back": "A computing model in which processing is done across multiple interconnected systems."
+    },
+    {
+        "front": "What are distributed databases?",
+        "back": "Databases that run on multiple servers and appear as a single system to users."
+    },
+    {
+        "front": "What are the challenges of distributed databases?",
+        "back": "Data consistency, synchronization, latency, fault tolerance, and complexity."
+    },
+    {
+        "front": "What is horizontal partitioning?",
+        "back": "Dividing a table’s rows across multiple databases for performance and scalability."
+    },
+    {
+        "front": "What is vertical partitioning?",
+        "back": "Dividing table columns across multiple databases or tables for optimization."
+    },
+    {
+        "front": "What is the CAP theorem?",
+        "back": "It states that a distributed system can provide only two out of three: Consistency, Availability, Partition Tolerance."
+    },
+    {
+        "front": "What is consistency in CAP?",
+        "back": "Every read receives the most recent write or an error."
+    },
+    {
+        "front": "What is availability in CAP?",
+        "back": "Every request receives a response (not necessarily the latest)."
+    },
+    {
+        "front": "What is partition tolerance?",
+        "back": "The system continues operating even if communication between nodes is disrupted."
+    },
+    {
+        "front": "What is eventual consistency?",
+        "back": "A model where data is eventually consistent across all nodes, not necessarily immediately."
+    },
+    {
+        "front": "What is strong consistency?",
+        "back": "A model where all nodes always return the most recent data for read operations."
+    },
+    {
+        "front": "What is BASE in NoSQL?",
+        "back": "Basically Available, Soft state, Eventually consistent — a contrast to ACID for NoSQL systems."
+    },
+    {
+        "front": "What are modern data storage solutions?",
+        "back": "Cloud-based, distributed, and scalable solutions like Amazon S3, Google Cloud Storage, and HDFS."
+    },
+    {
+        "front": "What is object storage?",
+        "back": "Storage that manages data as objects with metadata, ideal for unstructured data."
+    },
+    {
+        "front": "What is a data lake?",
+        "back": "A centralized repository that stores structured and unstructured data at scale."
+    },
+    {
+        "front": "What is real-time analytics?",
+        "back": "Processing and analyzing data as it arrives to provide immediate insights."
+    },
+    {
+        "front": "What is batch processing?",
+        "back": "Processing large volumes of data in scheduled groups or batches."
+    },
+    {
+        "front": "What is data visualization?",
+        "back": "The graphical representation of information and data using charts, graphs, and maps."
+    },
+    {
+        "front": "What are common data visualization tools?",
+        "back": "Examples: Tableau, Power BI, Apache Superset, D3.js."
+    },
+    {
+        "front": "What is Apache Kafka?",
+        "back": "A distributed event streaming platform used to build real-time data pipelines and applications."
+    },
+    {
+        "front": "What is stream processing?",
+        "back": "The real-time processing of data streams using tools like Apache Storm, Kafka Streams, or Flink."
+    },
+    {
+        "front": "What is schema-less design?",
+        "back": "A design approach in NoSQL databases where the structure of data can vary from document to document."
+    },
+    {
+        "front": "What is polyglot persistence?",
+        "back": "Using different types of databases in a single application based on their strengths."
+    },
+    {
+        "front": "What is data sharding?",
+        "back": "Splitting a dataset into parts (shards) distributed across multiple machines to enhance scalability."
+    },
+    {
+        "front": "What is data replication?",
+        "back": "Creating multiple copies of data across servers or regions for redundancy and availability."
+    },
+    {
+        "front": "What is eventual convergence?",
+        "back": "The process where all nodes in a distributed system eventually hold the same data values."
+    }
+]

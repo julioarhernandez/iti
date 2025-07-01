@@ -1,0 +1,239 @@
+[
+    {
+      "front": "What is the Internet of Things (IoT)?",
+      "back": "A network of physical objects embedded with sensors, software, and connectivity to exchange data over the internet."
+    },
+    {
+      "front": "What are IoT devices?",
+      "back": "Physical objects like sensors, actuators, or smart appliances that connect to a network and collect/transmit data."
+    },
+    {
+      "front": "What is an IoT ecosystem?",
+      "back": "A combination of devices, connectivity, data platforms, and applications that work together to enable smart solutions."
+    },
+    {
+      "front": "What are sensors in IoT?",
+      "back": "Components that detect physical changes (e.g., temperature, motion, humidity) and convert them into signals."
+    },
+    {
+      "front": "What is an actuator in IoT?",
+      "back": "A component that takes action based on received data, such as turning on a motor or opening a valve."
+    },
+    {
+      "front": "What are the core layers of IoT architecture?",
+      "back": "Perception layer, Network layer, and Application layer."
+    },
+    {
+      "front": "What is edge computing in IoT?",
+      "back": "Processing data at or near the source (device/sensor) instead of sending it to a centralized cloud server."
+    },
+    {
+      "front": "What is a microcontroller?",
+      "back": "A compact integrated circuit that acts as the brain of IoT devices (e.g., Arduino, ESP32)."
+    },
+    {
+      "front": "What is MQTT?",
+      "back": "Message Queuing Telemetry Transport — a lightweight messaging protocol used in IoT systems."
+    },
+    {
+      "front": "What is CoAP?",
+      "back": "Constrained Application Protocol — designed for low-power devices and limited-bandwidth environments."
+    },
+    {
+      "front": "What is a gateway in IoT?",
+      "back": "A device that bridges communication between sensors/devices and cloud platforms or other networks."
+    },
+    {
+      "front": "What is interoperability in IoT?",
+      "back": "The ability of different IoT devices and platforms to communicate and work together seamlessly."
+    },
+    {
+      "front": "What is latency in IoT?",
+      "back": "The time delay between data transmission and response, critical for real-time applications."
+    },
+    {
+      "front": "What is LPWAN?",
+      "back": "Low Power Wide Area Network — used for long-range communication between IoT devices with low power consumption."
+    },
+    {
+      "front": "What is LoRaWAN?",
+      "back": "A type of LPWAN protocol for long-distance IoT communication."
+    },
+    {
+      "front": "What is NB-IoT?",
+      "back": "Narrowband IoT — a cellular LPWAN technology optimized for deep indoor coverage and low data rates."
+    },
+    {
+      "front": "What are time-series data in IoT?",
+      "back": "Data collected at regular time intervals, such as sensor readings."
+    },
+    {
+      "front": "What is a time-series database (TSDB)?",
+      "back": "A specialized database optimized for storing and retrieving time-stamped data."
+    },
+    {
+      "front": "Name some popular TSDBs.",
+      "back": "InfluxDB, TimescaleDB, OpenTSDB, Prometheus."
+    },
+    {
+      "front": "What is data ingestion in IoT?",
+      "back": "The process of collecting and importing sensor data into a storage system for processing or analysis."
+    },
+    {
+      "front": "What is a data pipeline?",
+      "back": "A series of processing steps to move, clean, transform, and store IoT data."
+    },
+    {
+      "front": "What is real-time analytics?",
+      "back": "Analyzing data immediately as it is generated, often used in IoT for alerts and rapid decision-making."
+    },
+    {
+      "front": "What is fog computing?",
+      "back": "An architecture where data processing occurs between the edge and the cloud, reducing latency."
+    },
+    {
+      "front": "What is sensor fusion?",
+      "back": "Combining data from multiple sensors to derive more accurate or comprehensive information."
+    },
+    {
+      "front": "What is device provisioning in IoT?",
+      "back": "Configuring and registering a device to connect securely to a network or platform."
+    },
+    {
+      "front": "What are IoT platforms?",
+      "back": "Services that manage devices, data, communication, and analytics, e.g., AWS IoT, Azure IoT Hub, Google Cloud IoT."
+    },
+    {
+      "front": "What is firmware over-the-air (FOTA)?",
+      "back": "Remote updating of device firmware via wireless communication."
+    },
+    {
+      "front": "Why is data security important in IoT?",
+      "back": "To protect sensitive information, prevent unauthorized access, and ensure device integrity."
+    },
+    {
+      "front": "What are common IoT security risks?",
+      "back": "Device hijacking, data leakage, DDoS attacks, weak authentication, insecure firmware."
+    },
+    {
+      "front": "What is TLS in IoT security?",
+      "back": "Transport Layer Security — encrypts communication between devices and servers."
+    },
+    {
+      "front": "What is authentication in IoT?",
+      "back": "Verifying the identity of devices, users, or services before granting access."
+    },
+    {
+      "front": "What is role-based access control (RBAC)?",
+      "back": "Assigning permissions based on user roles to improve security and manage access."
+    },
+    {
+      "front": "What is encryption?",
+      "back": "The process of converting data into a secure format that can only be accessed with a key."
+    },
+    {
+      "front": "What is end-to-end encryption?",
+      "back": "Encrypting data from the source (device) all the way to the destination (cloud or user)."
+    },
+    {
+      "front": "What is data anonymization?",
+      "back": "Removing or altering personal identifiers from data to protect user privacy."
+    },
+    {
+      "front": "What are digital twins?",
+      "back": "Virtual replicas of physical devices used to simulate, monitor, and optimize performance."
+    },
+    {
+      "front": "What is predictive maintenance in IoT?",
+      "back": "Using sensor data and analytics to predict equipment failures before they occur."
+    },
+    {
+      "front": "What is IoT integration?",
+      "back": "Connecting IoT systems with existing IT infrastructure, enterprise software, or APIs."
+    },
+    {
+      "front": "What is RESTful API?",
+      "back": "A standard architecture for building APIs that allows communication between systems over HTTP."
+    },
+    {
+      "front": "What is a webhook in IoT?",
+      "back": "A user-defined callback triggered by an event to send real-time data to another service."
+    },
+    {
+      "front": "What is device telemetry?",
+      "back": "Automatic collection and transmission of data from remote devices for monitoring."
+    },
+    {
+      "front": "What is interoperability?",
+      "back": "The ability of different systems and devices to work together effectively."
+    },
+    {
+      "front": "What is an IoT dashboard?",
+      "back": "A visual interface that displays real-time data, status, and analytics from connected devices."
+    },
+    {
+      "front": "What are smart cities?",
+      "back": "Urban areas that use IoT technologies to improve infrastructure, services, and quality of life."
+    },
+    {
+      "front": "What is smart agriculture?",
+      "back": "The use of IoT for optimizing farming practices, such as irrigation and crop monitoring."
+    },
+    {
+      "front": "What is Industrial IoT (IIoT)?",
+      "back": "Application of IoT in manufacturing and industry for automation and predictive maintenance."
+    },
+    {
+      "front": "What is fleet management with IoT?",
+      "back": "Using GPS, sensors, and cloud platforms to monitor and optimize vehicle operations."
+    },
+    {
+      "front": "What is home automation?",
+      "back": "Controlling home devices such as lights, thermostats, and security systems using IoT."
+    },
+    {
+      "front": "What are the challenges of IoT?",
+      "back": "Security, scalability, interoperability, data management, and device management."
+    },
+    {
+      "front": "What is scalability in IoT?",
+      "back": "The ability to support a growing number of devices and data streams efficiently."
+    },
+    {
+      "front": "What is an IoT protocol?",
+      "back": "Rules and formats that enable communication between IoT devices (e.g., MQTT, CoAP, HTTP)."
+    },
+    {
+      "front": "What is battery management in IoT?",
+      "back": "Techniques for optimizing energy consumption in low-power devices."
+    },
+    {
+      "front": "What is edge AI?",
+      "back": "Running AI algorithms locally on edge devices for fast, low-latency decision-making."
+    },
+    {
+      "front": "What is 5G’s role in IoT?",
+      "back": "Provides higher speed, lower latency, and more connections, enabling large-scale IoT deployments."
+    },
+    {
+      "front": "What is IoT analytics?",
+      "back": "Analyzing data from connected devices to extract insights, detect anomalies, and inform decisions."
+    },
+    {
+      "front": "What are IoT standards?",
+      "back": "Agreed-upon specifications (e.g., IEEE, IETF, OCF) that ensure compatibility and security."
+    },
+    {
+      "front": "What is OTA (Over-The-Air) update?",
+      "back": "Updating firmware or configuration wirelessly without physical access to devices."
+    },
+    {
+      "front": "What is a use case for IoT in healthcare?",
+      "back": "Remote patient monitoring using wearable sensors and real-time data transmission."
+    },
+    {
+      "front": "What is an IoT sandbox?",
+      "back": "A safe testing environment to develop, simulate, and test IoT applications."
+    }
+  ]
+  

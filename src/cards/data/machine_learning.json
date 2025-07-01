@@ -1,0 +1,239 @@
+[
+    {
+      "front": "What is Machine Learning (ML)?",
+      "back": "A subset of AI that allows systems to learn and improve from experience without being explicitly programmed."
+    },
+    {
+      "front": "What are the main types of Machine Learning?",
+      "back": "Supervised, Unsupervised, and Reinforcement Learning."
+    },
+    {
+      "front": "What is data preprocessing?",
+      "back": "The process of cleaning, transforming, and organizing raw data for effective model training."
+    },
+    {
+      "front": "What is Exploratory Data Analysis (EDA)?",
+      "back": "A method to visually and statistically analyze data to understand patterns and anomalies before modeling."
+    },
+    {
+      "front": "What is model development?",
+      "back": "The process of training an ML algorithm on data to learn patterns and make predictions."
+    },
+    {
+      "front": "What is model evaluation?",
+      "back": "Assessing the accuracy and performance of a trained model using metrics like accuracy, precision, recall, etc."
+    },
+    {
+      "front": "What is model selection?",
+      "back": "Choosing the best-performing algorithm or model based on evaluation metrics and cross-validation."
+    },
+    {
+      "front": "What is model optimization?",
+      "back": "Tuning hyperparameters to improve model performance."
+    },
+    {
+      "front": "What is supervised learning?",
+      "back": "A type of ML where the model learns from labeled training data to make predictions."
+    },
+    {
+      "front": "What are examples of supervised learning tasks?",
+      "back": "Classification and regression."
+    },
+    {
+      "front": "What is a decision tree?",
+      "back": "A tree-structured classifier that splits data into branches to make predictions."
+    },
+    {
+      "front": "What is the K-Nearest Neighbors (KNN) algorithm?",
+      "back": "A classification method that assigns a label based on the majority class among the k closest data points."
+    },
+    {
+      "front": "What is logistic regression used for?",
+      "back": "Binary classification tasks, predicting the probability of a binary outcome."
+    },
+    {
+      "front": "What is Naive Bayes?",
+      "back": "A probabilistic classifier based on Bayes’ theorem assuming independence between features."
+    },
+    {
+      "front": "What is linear regression?",
+      "back": "A regression technique that models the relationship between variables using a linear equation."
+    },
+    {
+      "front": "What is polynomial regression?",
+      "back": "An extension of linear regression where the relationship between variables is modeled as an nth-degree polynomial."
+    },
+    {
+      "front": "What is model tuning?",
+      "back": "Adjusting parameters like learning rate, tree depth, or k-value to optimize model accuracy."
+    },
+    {
+      "front": "What is cross-validation?",
+      "back": "A technique to assess model performance by splitting data into training and validation sets multiple times."
+    },
+    {
+      "front": "What is unsupervised learning?",
+      "back": "Learning patterns from unlabeled data without explicit outcomes."
+    },
+    {
+      "front": "What are common unsupervised learning tasks?",
+      "back": "Clustering and dimensionality reduction."
+    },
+    {
+      "front": "What is K-Means clustering?",
+      "back": "A clustering algorithm that partitions data into k clusters based on similarity."
+    },
+    {
+      "front": "What is hierarchical clustering?",
+      "back": "A method of clustering that builds a hierarchy of clusters through successive merges or splits."
+    },
+    {
+      "front": "What is DBSCAN?",
+      "back": "Density-Based Spatial Clustering of Applications with Noise — identifies clusters of varying shapes."
+    },
+    {
+      "front": "What is dimensionality reduction?",
+      "back": "Reducing the number of features in a dataset while preserving essential information."
+    },
+    {
+      "front": "What is PCA (Principal Component Analysis)?",
+      "back": "A technique that transforms correlated features into uncorrelated principal components."
+    },
+    {
+      "front": "What is t-SNE?",
+      "back": "A nonlinear technique for visualizing high-dimensional data in 2D or 3D."
+    },
+    {
+      "front": "What is feature engineering?",
+      "back": "Creating new input features or modifying existing ones to improve model performance."
+    },
+    {
+      "front": "What is feature selection?",
+      "back": "The process of selecting the most relevant variables for use in model construction."
+    },
+    {
+      "front": "What is overfitting?",
+      "back": "When a model learns noise in training data and performs poorly on unseen data."
+    },
+    {
+      "front": "What is underfitting?",
+      "back": "When a model is too simple to capture the underlying patterns in the data."
+    },
+    {
+      "front": "What is regularization?",
+      "back": "A technique to reduce overfitting by penalizing model complexity."
+    },
+    {
+      "front": "What are hyperparameters?",
+      "back": "Configuration values set before training that influence model learning (e.g., learning rate, k)."
+    },
+    {
+      "front": "What is the bias-variance tradeoff?",
+      "back": "The balance between a model’s ability to generalize (bias) and adapt (variance)."
+    },
+    {
+      "front": "What is a confusion matrix?",
+      "back": "A table used to evaluate the performance of a classification model."
+    },
+    {
+      "front": "What are precision and recall?",
+      "back": "Precision is the ratio of true positives to predicted positives; recall is true positives to actual positives."
+    },
+    {
+      "front": "What is F1-score?",
+      "back": "The harmonic mean of precision and recall."
+    },
+    {
+      "front": "What is the ROC curve?",
+      "back": "A graphical plot that shows the diagnostic ability of a classifier."
+    },
+    {
+      "front": "What is AUC-ROC?",
+      "back": "Area Under the ROC Curve — a measure of classification performance."
+    },
+    {
+      "front": "What is a pipeline in ML?",
+      "back": "A sequence of data transformation and modeling steps executed as one workflow."
+    },
+    {
+      "front": "What is scikit-learn?",
+      "back": "A Python library for ML tasks such as classification, regression, and clustering."
+    },
+    {
+      "front": "What is cross-entropy loss?",
+      "back": "A loss function used in classification tasks, especially logistic regression and neural networks."
+    },
+    {
+      "front": "What is mean squared error (MSE)?",
+      "back": "A metric for regression that measures the average squared difference between predicted and actual values."
+    },
+    {
+      "front": "What is gradient descent?",
+      "back": "An optimization algorithm that adjusts weights iteratively to minimize loss."
+    },
+    {
+      "front": "What is stochastic gradient descent (SGD)?",
+      "back": "A variation of gradient descent that updates weights using one training example at a time."
+    },
+    {
+      "front": "What is early stopping?",
+      "back": "A method to prevent overfitting by stopping training when validation error starts increasing."
+    },
+    {
+      "front": "What is bootstrapping?",
+      "back": "A resampling technique used to estimate statistics by sampling with replacement."
+    },
+    {
+      "front": "What is bagging?",
+      "back": "An ensemble method that trains multiple models on random subsets of data to improve stability."
+    },
+    {
+      "front": "What is boosting?",
+      "back": "An ensemble technique that combines weak learners sequentially to create a strong model."
+    },
+    {
+      "front": "What is ensemble learning?",
+      "back": "Combining multiple models to improve accuracy and robustness over individual models."
+    },
+    {
+      "front": "What is cross-validation score?",
+      "back": "The average performance score across multiple folds in k-fold cross-validation."
+    },
+    {
+      "front": "What is the difference between classification and regression?",
+      "back": "Classification predicts categories; regression predicts continuous values."
+    },
+    {
+      "front": "What is the curse of dimensionality?",
+      "back": "Challenges that arise as the number of features increases, leading to sparse data."
+    },
+    {
+      "front": "What is feature scaling?",
+      "back": "Transforming features to be on the same scale, often required for ML algorithms to perform optimally."
+    },
+    {
+      "front": "What is a learning curve?",
+      "back": "A plot showing how a model’s performance changes with experience (data or epochs)."
+    },
+    {
+      "front": "What is a validation set?",
+      "back": "A subset of data used to tune hyperparameters and evaluate model performance before final testing."
+    },
+    {
+      "front": "What is a test set?",
+      "back": "A separate dataset used to assess the generalization ability of the final trained model."
+    },
+    {
+      "front": "What is a random forest?",
+      "back": "An ensemble of decision trees where each tree votes and the most popular result is the output."
+    },
+    {
+      "front": "What is the elbow method?",
+      "back": "A technique to find the optimal number of clusters in K-means by plotting variance vs. cluster count."
+    },
+    {
+      "front": "What is silhouette score?",
+      "back": "A measure of how similar an object is to its own cluster compared to other clusters."
+    }
+  ]
+  
