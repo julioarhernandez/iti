@@ -33,5 +33,8 @@
     "@quasibit/eleventy-plugin-sitemap": "^2.0.3",
     "html-minifier": "^4.0.0",
     "plugins": "^0.4.2"
+  },
+  "volta": {
+    "node": "16.20.2"
   }
 }

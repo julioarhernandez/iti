@@ -1,0 +1,234 @@
+[
+    {
+        "front": "What is a Programming Language?",
+        "back": "A formal language used to write instructions that a computer can execute to perform specific tasks."
+    },
+    {
+        "front": "What is the purpose of learning programming?",
+        "back": "To develop the ability to automate tasks, build software, and solve problems using logical thinking."
+    },
+    {
+        "front": "What does 'syntax' mean in programming?",
+        "back": "Syntax refers to the rules that define the structure and format of valid statements in a programming language."
+    },
+    {
+        "front": "What is a compiler?",
+        "back": "A compiler is a tool that translates code written in a high-level programming language into machine code."
+    },
+    {
+        "front": "What is a code editor?",
+        "back": "A code editor is a tool used to write and edit programming code, often with features like syntax highlighting."
+    },
+    {
+        "front": "What is an IDE?",
+        "back": "An Integrated Development Environment (IDE) combines a code editor, debugger, and compiler in one interface."
+    },
+    {
+        "front": "What is a variable?",
+        "back": "A variable is a named storage location in memory that holds a value which can change during program execution."
+    },
+    {
+        "front": "What is a constant?",
+        "back": "A constant is a value that does not change during the execution of a program."
+    },
+    {
+        "front": "What are data types?",
+        "back": "Data types define the type of value a variable can hold, such as integer, float, string, or boolean."
+    },
+    {
+        "front": "What is a string in programming?",
+        "back": "A string is a sequence of characters enclosed in quotation marks, used to represent text."
+    },
+    {
+        "front": "What is an integer?",
+        "back": "An integer is a whole number, positive or negative, without decimals."
+    },
+    {
+        "front": "What is a float?",
+        "back": "A float is a number that contains a decimal point."
+    },
+    {
+        "front": "What is a boolean value?",
+        "back": "A boolean represents a value that is either true or false."
+    },
+    {
+        "front": "What is type casting?",
+        "back": "Type casting is converting one data type into another, such as from string to integer."
+    },
+    {
+        "front": "What is a conditional statement?",
+        "back": "It allows the program to make decisions based on whether a condition is true or false (e.g., if, else)."
+    },
+    {
+        "front": "What is the syntax for an if-else statement in Python?",
+        "back": "if condition:\n    # code\nelse:\n    # code"
+    },
+    {
+        "front": "What is the elif keyword in Python?",
+        "back": "It stands for 'else if' and allows for multiple conditions to be checked in sequence."
+    },
+    {
+        "front": "What is a loop?",
+        "back": "A loop repeats a block of code multiple times until a condition is met or for a specific number of times."
+    },
+    {
+        "front": "What is a for loop?",
+        "back": "A for loop iterates over a sequence such as a list, string, or range of numbers."
+    },
+    {
+        "front": "What is a while loop?",
+        "back": "A while loop repeats a block of code as long as a specified condition is true."
+    },
+    {
+        "front": "What is an infinite loop?",
+        "back": "A loop that never ends because its condition is always true or has no exit condition."
+    },
+    {
+        "front": "What is a list?",
+        "back": "A list is a collection of ordered items that can be changed and accessed by index."
+    },
+    {
+        "front": "What is an index in a list?",
+        "back": "An index refers to the position of an element in a list, starting from 0."
+    },
+    {
+        "front": "What is a tuple?",
+        "back": "A tuple is a collection like a list, but it is immutable (cannot be changed)."
+    },
+    {
+        "front": "What is a dictionary?",
+        "back": "A dictionary stores data in key-value pairs, allowing fast lookups by key."
+    },
+    {
+        "front": "What is a set?",
+        "back": "A set is an unordered collection of unique items."
+    },
+    {
+        "front": "What is a function?",
+        "back": "A function is a reusable block of code that performs a specific task."
+    },
+    {
+        "front": "What is the syntax to define a function in Python?",
+        "back": "def function_name(parameters):\n    # code block"
+    },
+    {
+        "front": "What is a parameter?",
+        "back": "A parameter is a variable listed inside the parentheses of a function definition."
+    },
+    {
+        "front": "What is an argument?",
+        "back": "An argument is the actual value passed to a function when it is called."
+    },
+    {
+        "front": "What is a return statement?",
+        "back": "It sends a result back from a function to where it was called."
+    },
+    {
+        "front": "What is a module?",
+        "back": "A module is a file containing Python code that can be imported and reused in other programs."
+    },
+    {
+        "front": "What is an import statement in Python?",
+        "back": "It allows you to use functions and variables from another module."
+    },
+    {
+        "front": "What is an algorithm?",
+        "back": "An algorithm is a step-by-step procedure to solve a problem or perform a task."
+    },
+    {
+        "front": "What is a linear search algorithm?",
+        "back": "It checks each element in a list one by one until it finds the target."
+    },
+    {
+        "front": "What is a binary search?",
+        "back": "A binary search divides a sorted list in half to locate a target efficiently."
+    },
+    {
+        "front": "What is debugging?",
+        "back": "Debugging is the process of finding and fixing errors or bugs in the code."
+    },
+    {
+        "front": "What is a syntax error?",
+        "back": "A syntax error occurs when the code does not follow the rules of the programming language."
+    },
+    {
+        "front": "What is a runtime error?",
+        "back": "An error that occurs while the program is running, often due to invalid operations like dividing by zero."
+    },
+    {
+        "front": "What is exception handling?",
+        "back": "A way to handle runtime errors gracefully using try-except blocks."
+    },
+    {
+        "front": "What is Object-Oriented Programming (OOP)?",
+        "back": "A programming paradigm based on the concept of objects containing data and behavior."
+    },
+    {
+        "front": "What is a class?",
+        "back": "A class is a blueprint for creating objects that share common structure and behavior."
+    },
+    {
+        "front": "What is an object?",
+        "back": "An object is an instance of a class with actual data."
+    },
+    {
+        "front": "What is an attribute in OOP?",
+        "back": "An attribute is a variable that belongs to an object or class."
+    },
+    {
+        "front": "What is a method in OOP?",
+        "back": "A method is a function that belongs to a class and can operate on its data."
+    },
+    {
+        "front": "What is inheritance in OOP?",
+        "back": "Inheritance allows a class to acquire the properties and methods of another class."
+    },
+    {
+        "front": "What is polymorphism in OOP?",
+        "back": "Polymorphism allows objects of different classes to be treated as if they were of the same class."
+    },
+    {
+        "front": "What is encapsulation?",
+        "back": "Encapsulation hides the internal state of an object and only exposes safe interfaces."
+    },
+    {
+        "front": "What is abstraction in OOP?",
+        "back": "Abstraction hides complex implementation details and shows only the essential features."
+    },
+    {
+        "front": "What is file handling in Python?",
+        "back": "File handling allows you to read from and write to files on disk using functions like open(), read(), and write()."
+    },
+    {
+        "front": "What are the modes for opening files in Python?",
+        "back": "'r' for read, 'w' for write, 'a' for append, and 'b' for binary mode."
+    },
+    {
+        "front": "What is the use of the with statement in file handling?",
+        "back": "It ensures files are properly closed after being used, even if an error occurs."
+    },
+    {
+        "front": "What is version control?",
+        "back": "Version control is a system that records changes to files over time, helping track and manage code history."
+    },
+    {
+        "front": "What is Git?",
+        "back": "Git is a distributed version control system that allows developers to track and collaborate on code changes."
+    },
+    {
+        "front": "What is a repository in Git?",
+        "back": "A repository is a storage space where your project's files and version history are kept."
+    },
+    {
+        "front": "What is a commit in Git?",
+        "back": "A commit is a snapshot of your project at a given point in time, including a message describing the change."
+    },
+    {
+        "front": "What is GitHub?",
+        "back": "GitHub is a cloud-based platform for hosting Git repositories and collaborating on code."
+    },
+    {
+        "front": "What is the purpose of a Capstone Project?",
+        "back": "To apply the knowledge gained in the course to build a real-world, functional application or system."
+    }
+]

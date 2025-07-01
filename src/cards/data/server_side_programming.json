@@ -1,0 +1,226 @@
+[
+    {
+        "front": "What is server-side programming?",
+        "back": "It refers to code that runs on a server to respond to client requests and manage application logic, data, and authentication."
+    },
+    {
+        "front": "What is the difference between client-side and server-side programming?",
+        "back": "Client-side runs in the browser (e.g., HTML, CSS, JS); server-side runs on the web server and handles logic, databases, and authentication."
+    },
+    {
+        "front": "What are common server-side programming languages?",
+        "back": "Examples include JavaScript (Node.js), Python, PHP, Ruby, Java, and C#."
+    },
+    {
+        "front": "What is a web framework?",
+        "back": "A collection of tools and libraries that simplify the process of building web applications."
+    },
+    {
+        "front": "Why use a web framework?",
+        "back": "To reduce boilerplate code, follow best practices, and accelerate development with built-in functionality."
+    },
+    {
+        "front": "What is Express.js?",
+        "back": "A lightweight and flexible Node.js web framework for building server-side applications."
+    },
+    {
+        "front": "What is Flask?",
+        "back": "A minimalistic web framework for Python used to build simple to complex web apps quickly."
+    },
+    {
+        "front": "What is Django?",
+        "back": "A high-level Python web framework that encourages rapid development and clean design."
+    },
+    {
+        "front": "What is routing in web frameworks?",
+        "back": "It maps URLs to specific functions or controllers that handle the requests."
+    },
+    {
+        "front": "What is a controller?",
+        "back": "A part of the framework responsible for processing incoming requests and returning responses."
+    },
+    {
+        "front": "What is an HTTP request?",
+        "back": "A message sent by the client to request data or perform actions on the server."
+    },
+    {
+        "front": "What is an HTTP response?",
+        "back": "A message returned by the server containing the result of the client’s request."
+    },
+    {
+        "front": "What is a web server?",
+        "back": "Software that serves web content to clients over HTTP or HTTPS."
+    },
+    {
+        "front": "What is a basic web application?",
+        "back": "An app that handles user input, displays dynamic content, and interacts with a database."
+    },
+    {
+        "front": "What is a database?",
+        "back": "An organized collection of data that can be accessed, managed, and updated by server-side code."
+    },
+    {
+        "front": "What is a relational database?",
+        "back": "A database that organizes data in tables with rows and columns and uses SQL."
+    },
+    {
+        "front": "What is CRUD?",
+        "back": "Create, Read, Update, Delete — the four basic operations on persistent data."
+    },
+    {
+        "front": "What is a CRUD operation in Express.js?",
+        "back": "Using routes and controllers to perform database operations like POST, GET, PUT, DELETE."
+    },
+    {
+        "front": "What is SQLAlchemy?",
+        "back": "A Python SQL toolkit and ORM that provides tools for connecting to and querying databases."
+    },
+    {
+        "front": "What is user authentication?",
+        "back": "The process of verifying a user's identity, typically using login credentials."
+    },
+    {
+        "front": "What is a session?",
+        "back": "A method of persisting user data between requests after login, often stored on the server."
+    },
+    {
+        "front": "What is a token?",
+        "back": "A digitally encoded string used to validate a user’s identity or session (e.g., JWT)."
+    },
+    {
+        "front": "What is JSON Web Token (JWT)?",
+        "back": "A compact, URL-safe means of representing claims for authentication between client and server."
+    },
+    {
+        "front": "What is user authorization?",
+        "back": "Determining which resources a verified user has permission to access."
+    },
+    {
+        "front": "What is Role-Based Access Control (RBAC)?",
+        "back": "A system that assigns permissions to users based on their roles."
+    },
+    {
+        "front": "What is form handling?",
+        "back": "Capturing and processing user input submitted through a web form."
+    },
+    {
+        "front": "What is input validation?",
+        "back": "Ensuring that user-provided data is accurate, complete, and safe before processing it."
+    },
+    {
+        "front": "What is server-side validation?",
+        "back": "Checking and sanitizing user inputs on the server before processing or saving data."
+    },
+    {
+        "front": "What is a RESTful API?",
+        "back": "An interface that follows REST principles to allow interaction with web services using HTTP methods."
+    },
+    {
+        "front": "What does REST stand for?",
+        "back": "Representational State Transfer — a design pattern for stateless client-server communication."
+    },
+    {
+        "front": "What are common HTTP methods used in REST?",
+        "back": "GET, POST, PUT, DELETE, PATCH."
+    },
+    {
+        "front": "What is an endpoint?",
+        "back": "A specific route in an API where a client can access or send data."
+    },
+    {
+        "front": "What is a request body?",
+        "back": "The data sent by the client in an HTTP request, usually with POST or PUT."
+    },
+    {
+        "front": "What is JSON?",
+        "back": "JavaScript Object Notation — a lightweight data format used for exchanging data between client and server."
+    },
+    {
+        "front": "What is the Content-Type header for JSON?",
+        "back": "'application/json'"
+    },
+    {
+        "front": "What is a response status code?",
+        "back": "A three-digit number that indicates the result of an HTTP request (e.g., 200, 404, 500)."
+    },
+    {
+        "front": "What is middleware?",
+        "back": "Functions that run during the request-response cycle and can modify the request, response, or flow."
+    },
+    {
+        "front": "What is body-parser?",
+        "back": "A middleware used in Express.js to parse incoming request bodies."
+    },
+    {
+        "front": "What is CORS?",
+        "back": "Cross-Origin Resource Sharing — a security feature that controls access to resources from other domains."
+    },
+    {
+        "front": "What is logging in server-side apps?",
+        "back": "Recording system events, errors, or user actions for monitoring and debugging."
+    },
+    {
+        "front": "What is error handling?",
+        "back": "Detecting, managing, and responding to errors that occur during program execution."
+    },
+    {
+        "front": "What is a try-catch block?",
+        "back": "A structure used to catch and handle exceptions in server-side code."
+    },
+    {
+        "front": "What is a 404 error?",
+        "back": "An HTTP status code indicating that the requested resource was not found."
+    },
+    {
+        "front": "What is a 500 error?",
+        "back": "An HTTP status code indicating an internal server error."
+    },
+    {
+        "front": "What is asynchronous programming?",
+        "back": "A programming approach where tasks run independently, allowing the program to continue without waiting."
+    },
+    {
+        "front": "What is a promise in JavaScript?",
+        "back": "An object representing the eventual completion or failure of an asynchronous operation."
+    },
+    {
+        "front": "What is async/await?",
+        "back": "Syntax in JavaScript to handle promises more clearly in asynchronous code."
+    },
+    {
+        "front": "What is an API key?",
+        "back": "A unique identifier used to authenticate requests to an API."
+    },
+    {
+        "front": "What is rate limiting?",
+        "back": "A technique to limit the number of requests a user can make to an API within a time frame."
+    },
+    {
+        "front": "What is environment configuration?",
+        "back": "Storing sensitive information like DB credentials or API keys in environment variables."
+    },
+    {
+        "front": "What is dotenv?",
+        "back": "A module that loads environment variables from a .env file into process.env."
+    },
+    {
+        "front": "What is deployment?",
+        "back": "The process of publishing your web application to a live server so users can access it."
+    },
+    {
+        "front": "What is continuous integration (CI)?",
+        "back": "A practice where developers frequently merge code into a shared repository, triggering automated tests and builds."
+    },
+    {
+        "front": "What is Postman?",
+        "back": "A tool for testing, developing, and documenting APIs by simulating HTTP requests."
+    },
+    {
+        "front": "What is Swagger?",
+        "back": "An open-source tool for designing, building, and documenting RESTful APIs."
+    },
+    {
+        "front": "What is the purpose of a Capstone Project in server-side programming?",
+        "back": "To integrate learned skills into a real-world application with database, routing, API, and authentication."
+    }
+]

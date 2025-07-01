@@ -65,7 +65,8 @@ module.exports = function (eleventyConfig) {
         .addPassthroughCopy("./src/robots.txt")
         .addPassthroughCopy("./src/favicon*")
         .addPassthroughCopy("./src/manifest.json")
-        .addPassthroughCopy("./src/admin");
+        .addPassthroughCopy("./src/admin")
+        .addPassthroughCopy("./src/cards");
     eleventyConfig.addLayoutAlias("postsEn", "layouts/postsEn.njk");
     eleventyConfig.addFilter('console', function (value) {
         return util.inspect(value);

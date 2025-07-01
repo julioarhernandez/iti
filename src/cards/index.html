@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flashcards</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>ITI & GMTTI</h1>
+        <h2>Database Management Flashcards</h2>
+
+
+        <div class="flashcards-display" id="flashcardsDisplay">
+            <!-- Flashcards will be dynamically added here -->
+            <p id="initialMessage">Loading cards...</p>
+        </div>
+
+        <div class="card-controls" id="cardControls" style="display:none;">
+            <button id="prevCardBtn">Previous</button>
+            <span id="cardCounter">Card 1 Of  1</span>
+            <button id="nextCardBtn">Next</button>
+        </div>
+
+        <div id="errorMessage" class="error-message"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

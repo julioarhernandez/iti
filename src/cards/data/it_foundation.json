@@ -1,0 +1,275 @@
+
+[
+    {
+        "front": "What is Hardware?",
+        "back": "The physical and tangible components of a computer, such as the CPU, RAM, and hard drive."
+    },
+    {
+        "front": "What is Software?",
+        "back": "The intangible programs, data, and instructions that tell the hardware how to function and perform tasks."
+    },
+    {
+        "front": "Define Operating System (OS)",
+        "back": "Fundamental software that manages a computer's hardware and software resources, and provides common services for application programs."
+    },
+    {
+        "front": "Example of Application Software",
+        "back": "Microsoft Word, Google Chrome, Adobe Photoshop, video games."
+    },
+    {
+        "front": "Example of System Software",
+        "back": "Windows, macOS, Linux (operating systems), device drivers."
+    },
+    {
+        "front": "What is the CPU?",
+        "back": "The Central Processing Unit, the 'brain' of the computer that executes program instructions."
+    },
+    {
+        "front": "What is RAM?",
+        "back": "Random Access Memory, a volatile memory that temporarily stores data and programs in use for quick access by the CPU."
+    },
+    {
+        "front": "Main function of an OS",
+        "back": "To manage the system's hardware and software, and to provide an interface for the user to interact with the computer."
+    },
+    {
+        "front": "What is a Graphical User Interface (GUI)?",
+        "back": "A visual way to interact with the operating system using graphical elements like icons, windows, and menus, instead of text commands."
+    },
+    {
+        "front": "Mention an OS navigation method",
+        "back": "Using a mouse (clicks, drag-and-drop), keyboard (shortcuts, arrows), or touch/voice gestures."
+    },
+    {
+        "front": "Why is OS security important?",
+        "back": "To protect data and the system from unauthorized access, malware, viruses, and other cyber threats."
+    },
+    {
+        "front": "What is a 'process' in an OS?",
+        "back": "An instance of a running program, along with its associated resources (memory, CPU, etc.)."
+    },
+    {
+        "front": "What is file management in an OS?",
+        "back": "The way the operating system organizes, stores, retrieves, and manipulates files and directories on storage devices."
+    },
+    {
+        "front": "What is multitasking in an OS?",
+        "back": "The ability of an operating system to execute multiple processes or programs seemingly at the same time, by rapidly switching between them."
+    },
+    {
+        "front": "What is computer preventive maintenance?",
+        "back": "Regular and proactive actions (physical cleaning, software updates, defragmentation) to prevent failures, improve performance, and extend equipment lifespan."
+    },
+    {
+        "front": "Mention an essential cybersecurity practice",
+        "back": "Using strong and unique passwords, keeping software updated, using antivirus/anti-malware software, and performing backups."
+    },
+    {
+        "front": "What is Malware?",
+        "back": "Malicious software (viruses, worms, Trojans, ransomware) designed to damage, disable, or gain unauthorized access to a computer system or data."
+    },
+    {
+        "front": "What is a Firewall?",
+        "back": "A network security system that monitors and controls incoming and outgoing network traffic, allowing or blocking data passage based on predefined security rules."
+    },
+    {
+        "front": "What is Phishing?",
+        "back": "A type of social engineering attack where attackers try to obtain sensitive information (passwords, bank details) by impersonating a trustworthy entity in electronic communication."
+    },
+    {
+        "front": "What is Antivirus software?",
+        "back": "Software designed to detect, prevent, and remove malicious programs (viruses, Trojans, worms) from a computer system."
+    },
+    {
+        "front": "What are software updates?",
+        "back": "Patches or improvements released by developers to fix bugs, add new features, and crucially, address security vulnerabilities."
+    },
+    {
+        "front": "What is a Computer Network?",
+        "back": "A set of two or more interconnected computers and devices that can share resources (printers, files) and data with each other."
+    },
+    {
+        "front": "Mention a type of network hardware",
+        "back": "Router, Switch, Network Interface Card (NIC), Ethernet Cable, Wireless Access Point."
+    },
+    {
+        "front": "What is an IP Address?",
+        "back": "A unique numerical label (e.g., 192.168.1.1) assigned to each device connected to a network that uses the Internet Protocol for communication."
+    },
+    {
+        "front": "What is a Network Protocol?",
+        "back": "A set of rules and standards that govern how devices communicate on a network, ensuring they can understand each other (e.g., TCP/IP, HTTP)."
+    },
+    {
+        "front": "What is Network Topology?",
+        "back": "The physical or logical arrangement of nodes (devices) and connections (cables, wireless) in a network, such as star, bus, or ring."
+    },
+    {
+        "front": "What is the difference between LAN and WAN?",
+        "back": "LAN (Local Area Network) is a network in a small area (e.g., a home or office), while WAN (Wide Area Network) is a network over a large area (e.g., the Internet)."
+    },
+    {
+        "front": "What is a Router?",
+        "back": "A network device that forwards data packets between different networks, typically connecting a local network to the Internet."
+    },
+    {
+        "front": "What is a Database?",
+        "back": "An organized and structured collection of information or data, stored and managed electronically for easy access, management, and updating."
+    },
+    {
+        "front": "Define DBMS",
+        "back": "Database Management System, software that allows users to define, create, maintain, and control access to the database."
+    },
+    {
+        "front": "Mention a CRUD operation in databases",
+        "back": "Create, Read, Update, Delete - the four basic data persistence operations."
+    },
+    {
+        "front": "What is a 'Table' in a relational database?",
+        "back": "A collection of data organized into rows (records) and columns (fields), similar to a spreadsheet."
+    },
+    {
+        "front": "What is a 'Primary Key'?",
+        "back": "A field or set of fields in a table that contains unique values for each record, used to uniquely identify each row."
+    },
+    {
+        "front": "What is SQL?",
+        "back": "Structured Query Language, a standard language used to manage and manipulate relational databases."
+    },
+    {
+        "front": "What is a 'Record' (or Row)?",
+        "back": "A single entry in a database table that contains a set of values for each column, representing a complete entity."
+    },
+    {
+        "front": "What is OS customization?",
+        "back": "Modifying the appearance and behavior of an operating system to adapt it to user preferences and needs (themes, backgrounds, shortcuts)."
+    },
+    {
+        "front": "Tool for monitoring OS performance",
+        "back": "Task Manager (Windows), Activity Monitor (macOS), top/htop (Linux)."
+    },
+    {
+        "front": "How to improve OS performance?",
+        "back": "Free up disk space, disable unnecessary startup programs, update drivers, add more RAM, defragment disk (HDD)."
+    },
+    {
+        "front": "Function of 'user accounts' in OS security",
+        "back": "They allow controlling access to resources and data, and applying specific permissions for each user, isolating their environments."
+    },
+    {
+        "front": "What is a 'service' in the OS?",
+        "back": "Programs that run in the background without a direct user interface, performing essential functions for the system or applications."
+    },
+    {
+        "front": "What is OS virtualization?",
+        "back": "The ability to run multiple operating systems as virtual machines on a single physical hardware."
+    },
+    {
+        "front": "What is a File System?",
+        "back": "The structure and method an operating system uses to organize and manage files on a storage device (e.g., hard drive, SSD)."
+    },
+    {
+        "front": "Mention a common file system type",
+        "back": "NTFS (Windows), HFS+ / APFS (macOS), ext4 (Linux), FAT32 (universal compatibility)."
+    },
+    {
+        "front": "What is a 'Directory' (or Folder)?",
+        "back": "A logical container in a file system that can hold files and other directories, organizing information hierarchically."
+    },
+    {
+        "front": "What are 'File Permissions'?",
+        "back": "Settings that determine who can read, write, or execute a file or directory, crucial for security and access control."
+    },
+    {
+        "front": "What is disk 'fragmentation'?",
+        "back": "When files are stored in non-contiguous blocks on a hard drive, which slows down data access."
+    },
+    {
+        "front": "What is 'Journaling' in file systems?",
+        "back": "A feature that logs changes before they are applied to the disk, which helps recover file system integrity after a crash."
+    },
+    {
+        "front": "What is 'IP Addressing'?",
+        "back": "The process of assigning unique IP addresses to devices on a network so they can communicate with each other."
+    },
+    {
+        "front": "What is 'Subnetting'?",
+        "back": "The process of dividing a large IP network into smaller, more efficient subnets to improve network management, security, and performance."
+    },
+    {
+        "front": "Mention a network layer protocol (OSI)",
+        "back": "IP (Internet Protocol), ICMP (Internet Control Message Protocol), ARP (Address Resolution Protocol)."
+    },
+    {
+        "front": "What is TCP/IP?",
+        "back": "Transmission Control Protocol/Internet Protocol, the fundamental suite of protocols that underlies most networks, including the Internet."
+    },
+    {
+        "front": "What is the difference between IPv4 and IPv6?",
+        "back": "IPv4 uses 32-bit addresses (e.g., 192.168.1.1), while IPv6 uses 128-bit addresses, offering a much larger address space."
+    },
+    {
+        "front": "What is a 'Subnet Mask'?",
+        "back": "A 32-bit number used to distinguish the network portion of an IP address from the host portion."
+    },
+    {
+        "front": "What is the 'World Wide Web'?",
+        "back": "A system of interconnected hypertext documents accessible via the Internet, using web browsers."
+    },
+    {
+        "front": "Define 'Web Development'",
+        "back": "The process of creating and maintaining websites and web applications, including design, coding, and database management."
+    },
+    {
+        "front": "Mention a fundamental language for web development",
+        "back": "HTML (structure), CSS (style), JavaScript (interactivity)."
+    },
+    {
+        "front": "What is 'HTTPS' and why is it important?",
+        "back": "Hypertext Transfer Protocol Secure, a secure version of HTTP that encrypts communication between the browser and the server, protecting data privacy and integrity."
+    },
+    {
+        "front": "Online security tip",
+        "back": "Use complex and unique passwords, enable two-factor authentication (2FA), be cautious with suspicious links and attachments."
+    },
+    {
+        "front": "What is a 'web browser'?",
+        "back": "Software that allows users to access, view, and interact with websites on the World Wide Web."
+    },
+    {
+        "front": "Define 'Cybersecurity'",
+        "back": "The practice of protecting systems, networks, and programs from digital attacks, damage, or unauthorized access."
+    },
+    {
+        "front": "What is an 'Algorithm'?",
+        "back": "A set of well-defined, step-by-step instructions for solving a problem or performing a task."
+    },
+    {
+        "front": "Example of a Programming Language",
+        "back": "Python, Java, C++, JavaScript."
+    },
+    {
+        "front": "What is 'Front-end Development'?",
+        "back": "The part of web development that focuses on the user interface and user experience of a website or web application."
+    },
+    {
+        "front": "What is 'Back-end Development'?",
+        "back": "The part of web development that focuses on the server-side logic, databases, and APIs that power a website or web application."
+    },
+    {
+        "front": "What is a 'Version Control System'?",
+        "back": "A system that records changes to a file or set of files over time so that you can recall specific versions later (e.g., Git)."
+    },
+    {
+        "front": "What is 'Debugging'?",
+        "back": "The process of finding and fixing errors or bugs in computer programs."
+    },
+    {
+        "front": "What is 'Data Encryption'?",
+        "back": "The process of converting information or data into a code to prevent unauthorized access."
+    },
+    {
+        "front": "What is a 'Capstone Project'?",
+        "back": "A culminating academic or professional experience that allows students to apply knowledge and skills gained throughout their studies to a real-world problem or project."
+    }
+]

@@ -1,0 +1,230 @@
+[
+    {
+        "front": "What is a database?",
+        "back": "A structured set of data held in a computer system that is easily accessible and manageable."
+    },
+    {
+        "front": "What is a DBMS?",
+        "back": "Database Management System — software for creating, managing, and interacting with databases."
+    },
+    {
+        "front": "What is a relational database?",
+        "back": "A type of database that organizes data into tables with rows and columns."
+    },
+    {
+        "front": "What is a table in a database?",
+        "back": "A collection of related data organized in rows and columns within a database."
+    },
+    {
+        "front": "What is a record?",
+        "back": "A single row in a table representing one item or entry."
+    },
+    {
+        "front": "What is a field?",
+        "back": "A column in a table representing one attribute of the data."
+    },
+    {
+        "front": "What are the main types of databases?",
+        "back": "Relational, NoSQL, Object-Oriented, and Hierarchical databases."
+    },
+    {
+        "front": "What is a NoSQL database?",
+        "back": "A non-relational database designed for unstructured or semi-structured data."
+    },
+    {
+        "front": "What is SQL?",
+        "back": "Structured Query Language — used to manage and query relational databases."
+    },
+    {
+        "front": "What is the purpose of the SELECT statement in SQL?",
+        "back": "To retrieve data from a database."
+    },
+    {
+        "front": "What does the WHERE clause do in SQL?",
+        "back": "Filters records based on specified conditions."
+    },
+    {
+        "front": "What does ORDER BY do?",
+        "back": "Sorts query results in ascending or descending order."
+    },
+    {
+        "front": "What is a JOIN in SQL?",
+        "back": "Combines rows from two or more tables based on a related column."
+    },
+    {
+        "front": "What is a GROUP BY clause?",
+        "back": "Groups rows that have the same values in specified columns for aggregate functions."
+    },
+    {
+        "front": "What are aggregate functions in SQL?",
+        "back": "Functions that operate on sets of values: SUM, AVG, COUNT, MIN, MAX."
+    },
+    {
+        "front": "What is a subquery?",
+        "back": "A query nested inside another query."
+    },
+    {
+        "front": "What is an alias in SQL?",
+        "back": "A temporary name assigned to a column or table in a query using the AS keyword."
+    },
+    {
+        "front": "What is a constraint?",
+        "back": "A rule enforced on data in a table, such as NOT NULL, UNIQUE, or FOREIGN KEY."
+    },
+    {
+        "front": "What is a primary key?",
+        "back": "A unique identifier for each record in a table."
+    },
+    {
+        "front": "What is a foreign key?",
+        "back": "A field in one table that refers to the primary key in another table."
+    },
+    {
+        "front": "What is ER modeling?",
+        "back": "Entity-Relationship modeling — a method to visually represent data entities and their relationships."
+    },
+    {
+        "front": "What is an entity in ER modeling?",
+        "back": "A real-world object or concept that can have data stored about it."
+    },
+    {
+        "front": "What is an attribute in an ER diagram?",
+        "back": "A property or detail about an entity."
+    },
+    {
+        "front": "What is a relationship in ER modeling?",
+        "back": "An association between two or more entities."
+    },
+    {
+        "front": "What is a one-to-many relationship?",
+        "back": "An entity in one table is related to many entities in another table."
+    },
+    {
+        "front": "What is normalization?",
+        "back": "A process of organizing data to reduce redundancy and improve data integrity."
+    },
+    {
+        "front": "What is 1NF (First Normal Form)?",
+        "back": "A table with no repeating groups, and each cell contains atomic values."
+    },
+    {
+        "front": "What is 2NF (Second Normal Form)?",
+        "back": "A 1NF table with no partial dependencies on a composite primary key."
+    },
+    {
+        "front": "What is 3NF (Third Normal Form)?",
+        "back": "A 2NF table where all fields depend only on the primary key, not on other fields."
+    },
+    {
+        "front": "What is denormalization?",
+        "back": "The process of combining tables to improve read performance at the expense of redundancy."
+    },
+    {
+        "front": "What is a data model?",
+        "back": "A conceptual representation of data structures and their relationships."
+    },
+    {
+        "front": "What are common data modeling tools?",
+        "back": "Examples: MySQL Workbench, ER/Studio, Lucidchart, dbdiagram.io."
+    },
+    {
+        "front": "What is indexing in databases?",
+        "back": "A technique to speed up data retrieval by creating data pointers."
+    },
+    {
+        "front": "What is a clustered index?",
+        "back": "An index that determines the physical order of data in a table."
+    },
+    {
+        "front": "What is a non-clustered index?",
+        "back": "An index that stores pointers to the actual data in the table."
+    },
+    {
+        "front": "What is a view in SQL?",
+        "back": "A virtual table based on a query that can simplify complex joins and filters."
+    },
+    {
+        "front": "What is a stored procedure?",
+        "back": "A set of SQL statements that perform a task and can be reused."
+    },
+    {
+        "front": "What is a trigger in SQL?",
+        "back": "A procedure that automatically runs in response to certain events on a table."
+    },
+    {
+        "front": "What is a transaction in SQL?",
+        "back": "A sequence of operations performed as a single logical unit of work."
+    },
+    {
+        "front": "What are the ACID properties?",
+        "back": "Atomicity, Consistency, Isolation, Durability — properties that ensure reliable transactions."
+    },
+    {
+        "front": "What is advanced SQL?",
+        "back": "Includes concepts like subqueries, window functions, CTEs, and performance tuning."
+    },
+    {
+        "front": "What is a window function?",
+        "back": "A function that performs calculations across a set of rows related to the current row."
+    },
+    {
+        "front": "What is a CTE (Common Table Expression)?",
+        "back": "A temporary result set used to simplify complex queries, created using WITH."
+    },
+    {
+        "front": "What is database security?",
+        "back": "Protecting data against unauthorized access, tampering, and corruption."
+    },
+    {
+        "front": "What are user privileges in SQL?",
+        "back": "Permissions that define what actions a user can perform (e.g., SELECT, INSERT)."
+    },
+    {
+        "front": "What is SQL injection?",
+        "back": "A code injection technique that could allow attackers to manipulate a SQL query."
+    },
+    {
+        "front": "What is database administration?",
+        "back": "The process of managing, maintaining, and securing a database system."
+    },
+    {
+        "front": "What are database backups?",
+        "back": "Copies of the database that can be restored in case of failure or corruption."
+    },
+    {
+        "front": "What is data integrity?",
+        "back": "Accuracy, consistency, and reliability of data throughout its lifecycle."
+    },
+    {
+        "front": "What is a schema?",
+        "back": "The structure that defines the organization of data in a database, including tables and relationships."
+    },
+    {
+        "front": "What is database migration?",
+        "back": "Transferring data from one database system or format to another."
+    },
+    {
+        "front": "What is database tuning?",
+        "back": "Optimizing performance by adjusting queries, indexes, and system configurations."
+    },
+    {
+        "front": "What is a surrogate key?",
+        "back": "A system-generated key used to uniquely identify rows, unrelated to actual data."
+    },
+    {
+        "front": "What is a natural key?",
+        "back": "A key formed from existing data fields that uniquely identify a record."
+    },
+    {
+        "front": "What is a composite key?",
+        "back": "A key made up of two or more columns to uniquely identify a record."
+    },
+    {
+        "front": "What is data redundancy?",
+        "back": "Unnecessary duplication of data across tables that normalization aims to eliminate."
+    },
+    {
+        "front": "What is a database constraint?",
+        "back": "A rule that limits the type of data that can go into a table to ensure accuracy and reliability."
+    }
+]

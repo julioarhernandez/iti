@@ -1,0 +1,234 @@
+[
+    {
+        "front": "What is a database?",
+        "back": "A structured collection of data that can be stored, managed, and retrieved efficiently."
+    },
+    {
+        "front": "What is a DBMS?",
+        "back": "Database Management System — software that enables users to define, create, and manage databases."
+    },
+    {
+        "front": "What is a relational database?",
+        "back": "A database structured to recognize relations among stored items of information using tables."
+    },
+    {
+        "front": "What is a table in a database?",
+        "back": "A collection of related data organized in rows and columns."
+    },
+    {
+        "front": "What is a primary key?",
+        "back": "A column (or set of columns) that uniquely identifies each row in a table."
+    },
+    {
+        "front": "What is a foreign key?",
+        "back": "A column in one table that refers to the primary key in another table."
+    },
+    {
+        "front": "What is SQL?",
+        "back": "Structured Query Language — used to communicate with relational databases."
+    },
+    {
+        "front": "What is a SELECT statement in SQL?",
+        "back": "It retrieves data from one or more tables (e.g., SELECT * FROM students;)."
+    },
+    {
+        "front": "What is a WHERE clause?",
+        "back": "It filters records based on specified conditions in a SQL query."
+    },
+    {
+        "front": "What does the ORDER BY clause do?",
+        "back": "Sorts the result set by one or more columns (ascending or descending)."
+    },
+    {
+        "front": "What is an INSERT statement?",
+        "back": "Adds new rows of data into a table (e.g., INSERT INTO table_name ...)."
+    },
+    {
+        "front": "What is an UPDATE statement?",
+        "back": "Modifies existing records in a table."
+    },
+    {
+        "front": "What is a DELETE statement?",
+        "back": "Removes existing records from a table."
+    },
+    {
+        "front": "What does DDL stand for?",
+        "back": "Data Definition Language — used to define database structures (e.g., CREATE, ALTER, DROP)."
+    },
+    {
+        "front": "What does DML stand for?",
+        "back": "Data Manipulation Language — used to manipulate data (e.g., SELECT, INSERT, UPDATE, DELETE)."
+    },
+    {
+        "front": "What is a JOIN in SQL?",
+        "back": "Combines rows from two or more tables based on a related column."
+    },
+    {
+        "front": "What is an INNER JOIN?",
+        "back": "Returns rows that have matching values in both tables."
+    },
+    {
+        "front": "What is a LEFT JOIN?",
+        "back": "Returns all records from the left table and matching records from the right table."
+    },
+    {
+        "front": "What is a RIGHT JOIN?",
+        "back": "Returns all records from the right table and matching records from the left table."
+    },
+    {
+        "front": "What is a FULL OUTER JOIN?",
+        "back": "Returns all records when there is a match in either left or right table."
+    },
+    {
+        "front": "What is normalization?",
+        "back": "A process to organize data to reduce redundancy and improve data integrity."
+    },
+    {
+        "front": "What is the first normal form (1NF)?",
+        "back": "A table is in 1NF if it has no repeating groups and each cell contains atomic values."
+    },
+    {
+        "front": "What is a transaction?",
+        "back": "A sequence of operations performed as a single logical unit of work."
+    },
+    {
+        "front": "What are the ACID properties?",
+        "back": "Atomicity, Consistency, Isolation, Durability — properties that ensure reliable transactions."
+    },
+    {
+        "front": "What is a COMMIT in SQL?",
+        "back": "It permanently saves all changes made by the current transaction."
+    },
+    {
+        "front": "What is a ROLLBACK in SQL?",
+        "back": "Undoes changes made by the current transaction."
+    },
+    {
+        "front": "What is concurrency control?",
+        "back": "Techniques to ensure correct results when multiple users access the database simultaneously."
+    },
+    {
+        "front": "What is a deadlock?",
+        "back": "A situation where two or more transactions wait for each other to release locks indefinitely."
+    },
+    {
+        "front": "What is a stored procedure?",
+        "back": "A precompiled set of one or more SQL statements that can be reused and executed."
+    },
+    {
+        "front": "What is a function in SQL?",
+        "back": "A routine that returns a single value and can be used in SQL expressions."
+    },
+    {
+        "front": "What is a user-defined function (UDF)?",
+        "back": "A custom function created by the user to perform a specific task in SQL."
+    },
+    {
+        "front": "What is indexing in a database?",
+        "back": "A technique to speed up the retrieval of rows by creating pointers to data."
+    },
+    {
+        "front": "What is a clustered index?",
+        "back": "An index that defines the physical order of data in a table."
+    },
+    {
+        "front": "What is a non-clustered index?",
+        "back": "An index that does not affect the order of the data but maintains a separate structure."
+    },
+    {
+        "front": "What is a trigger?",
+        "back": "A SQL procedure that automatically executes in response to certain events on a table."
+    },
+    {
+        "front": "What is a view?",
+        "back": "A virtual table based on the result of a SELECT query."
+    },
+    {
+        "front": "What is data warehousing?",
+        "back": "A system used for reporting and data analysis by consolidating data from different sources."
+    },
+    {
+        "front": "What is OLAP?",
+        "back": "Online Analytical Processing — tools that help with complex data analysis in warehouses."
+    },
+    {
+        "front": "What is business intelligence (BI)?",
+        "back": "Technologies and strategies used to analyze business data and support decision-making."
+    },
+    {
+        "front": "What is data privacy?",
+        "back": "The right of individuals to control how their personal data is collected and used."
+    },
+    {
+        "front": "What is data security?",
+        "back": "Measures taken to protect digital data from unauthorized access or corruption."
+    },
+    {
+        "front": "What is encryption in databases?",
+        "back": "A method of converting data into a coded format to prevent unauthorized access."
+    },
+    {
+        "front": "What is a NoSQL database?",
+        "back": "A non-relational database designed to handle large volumes of unstructured or semi-structured data."
+    },
+    {
+        "front": "What is MongoDB?",
+        "back": "A popular NoSQL database that stores data in flexible, JSON-like documents."
+    },
+    {
+        "front": "What is a document store?",
+        "back": "A NoSQL database type that stores data as documents, usually in JSON or BSON format."
+    },
+    {
+        "front": "What is a key-value store?",
+        "back": "A NoSQL database that stores data as a collection of key-value pairs."
+    },
+    {
+        "front": "What is scalability in databases?",
+        "back": "The ability of a database to handle increasing amounts of work or data efficiently."
+    },
+    {
+        "front": "What is vertical scaling?",
+        "back": "Increasing the capacity of a single server (e.g., more CPU, RAM) to handle load."
+    },
+    {
+        "front": "What is horizontal scaling?",
+        "back": "Adding more servers to distribute the load across multiple machines."
+    },
+    {
+        "front": "What is backup and recovery?",
+        "back": "Creating copies of data to restore in case of data loss or corruption."
+    },
+    {
+        "front": "What is database design?",
+        "back": "The process of defining the structure, storage, and relationships of data in a database."
+    },
+    {
+        "front": "What is an ERD?",
+        "back": "Entity Relationship Diagram — a visual representation of database entities and their relationships."
+    },
+    {
+        "front": "What is data integrity?",
+        "back": "The accuracy and consistency of data stored in a database."
+    },
+    {
+        "front": "What is a constraint in SQL?",
+        "back": "A rule applied to a column or table to enforce data integrity (e.g., NOT NULL, UNIQUE)."
+    },
+    {
+        "front": "What is a UNIQUE constraint?",
+        "back": "Ensures all values in a column are different."
+    },
+    {
+        "front": "What is a NOT NULL constraint?",
+        "back": "Prevents null values from being inserted into a column."
+    },
+    {
+        "front": "What is the purpose of the Capstone Project?",
+        "back": "To apply the database knowledge gained in the course in a real-world, hands-on project."
+    },
+    {
+        "front": "What should a Capstone Project include?",
+        "back": "A well-structured database, SQL queries, proper documentation, and data integrity enforcement."
+    }
+]

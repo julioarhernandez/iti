@@ -1,0 +1,226 @@
+[
+    {
+        "front": "What is cloud computing?",
+        "back": "The delivery of computing services such as servers, storage, databases, and networking over the internet."
+    },
+    {
+        "front": "What are the key characteristics of cloud computing?",
+        "back": "On-demand self-service, broad network access, resource pooling, rapid elasticity, and measured service."
+    },
+    {
+        "front": "What are the three main cloud service models?",
+        "back": "Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS)."
+    },
+    {
+        "front": "What is IaaS?",
+        "back": "Infrastructure as a Service — provides virtualized computing resources over the internet."
+    },
+    {
+        "front": "What is PaaS?",
+        "back": "Platform as a Service — provides a platform for developing, running, and managing applications."
+    },
+    {
+        "front": "What is SaaS?",
+        "back": "Software as a Service — delivers software applications over the internet on a subscription basis."
+    },
+    {
+        "front": "What are public clouds?",
+        "back": "Cloud services provided over the internet and shared among multiple organizations."
+    },
+    {
+        "front": "What are private clouds?",
+        "back": "Cloud environments dedicated to a single organization, offering more control and security."
+    },
+    {
+        "front": "What is hybrid cloud?",
+        "back": "A combination of public and private cloud environments that work together."
+    },
+    {
+        "front": "What is cloud storage?",
+        "back": "A service that allows users to save data on remote servers accessible via the internet."
+    },
+    {
+        "front": "What are examples of cloud storage services?",
+        "back": "Amazon S3, Google Cloud Storage, Microsoft Azure Blob Storage, Dropbox."
+    },
+    {
+        "front": "What is object storage?",
+        "back": "A storage architecture that manages data as objects, ideal for unstructured data."
+    },
+    {
+        "front": "What is block storage?",
+        "back": "A type of storage where data is stored in fixed-size blocks, often used for databases."
+    },
+    {
+        "front": "What is file storage?",
+        "back": "A system that stores data in a hierarchical file and folder structure, similar to traditional file systems."
+    },
+    {
+        "front": "What is data redundancy in cloud storage?",
+        "back": "The replication of data across multiple locations to ensure durability and availability."
+    },
+    {
+        "front": "What is cloud data encryption?",
+        "back": "The process of encoding cloud-stored data to prevent unauthorized access."
+    },
+    {
+        "front": "What is compliance in cloud computing?",
+        "back": "Adhering to legal and regulatory standards such as GDPR, HIPAA, or SOC 2 in cloud environments."
+    },
+    {
+        "front": "What are cloud access controls?",
+        "back": "Security mechanisms that regulate who can access cloud resources and what actions they can perform."
+    },
+    {
+        "front": "What is a cloud database?",
+        "back": "A database that runs on a cloud computing platform, providing scalability and ease of management."
+    },
+    {
+        "front": "What is a managed database service?",
+        "back": "A cloud-based database solution where the provider handles maintenance, backups, and scaling."
+    },
+    {
+        "front": "What is Amazon RDS?",
+        "back": "A managed relational database service from AWS supporting engines like MySQL, PostgreSQL, and Oracle."
+    },
+    {
+        "front": "What is Azure Cosmos DB?",
+        "back": "A globally distributed, multi-model NoSQL database service from Microsoft Azure."
+    },
+    {
+        "front": "What is Google Firestore?",
+        "back": "A scalable NoSQL database for web, mobile, and server development from Google Cloud."
+    },
+    {
+        "front": "What is a data warehouse?",
+        "back": "A centralized repository for storing and analyzing large volumes of structured data."
+    },
+    {
+        "front": "What are cloud data warehousing solutions?",
+        "back": "Examples include Amazon Redshift, Google BigQuery, and Snowflake."
+    },
+    {
+        "front": "What is ETL in cloud computing?",
+        "back": "Extract, Transform, Load — the process of collecting data from sources, transforming it, and loading into storage."
+    },
+    {
+        "front": "What is data integration in the cloud?",
+        "back": "Combining data from various sources into a unified view using cloud tools."
+    },
+    {
+        "front": "What are cloud ETL tools?",
+        "back": "Examples include AWS Glue, Azure Data Factory, Talend Cloud, and Apache NiFi."
+    },
+    {
+        "front": "What is serverless computing?",
+        "back": "A model where cloud providers manage server operations, allowing developers to focus on code."
+    },
+    {
+        "front": "What are cloud-native applications?",
+        "back": "Apps designed to fully exploit cloud platforms’ scalability, availability, and flexibility."
+    },
+    {
+        "front": "What is NoSQL in the cloud?",
+        "back": "Non-relational databases managed in the cloud, like DynamoDB, Firebase, and MongoDB Atlas."
+    },
+    {
+        "front": "What is performance optimization in the cloud?",
+        "back": "Techniques to enhance resource efficiency and speed, including load balancing, caching, and autoscaling."
+    },
+    {
+        "front": "What is autoscaling?",
+        "back": "Automatically adjusting resources based on current demand to ensure performance and cost efficiency."
+    },
+    {
+        "front": "What is caching in cloud systems?",
+        "back": "Storing frequently accessed data in a temporary location to improve performance."
+    },
+    {
+        "front": "What is load balancing in the cloud?",
+        "back": "Distributing incoming traffic across multiple servers to ensure availability and reliability."
+    },
+    {
+        "front": "What is cloud scalability?",
+        "back": "The ability to increase or decrease computing resources to meet workload demands."
+    },
+    {
+        "front": "What is vertical scaling in cloud computing?",
+        "back": "Increasing the power of an existing server (e.g., more CPU or memory)."
+    },
+    {
+        "front": "What is horizontal scaling in cloud computing?",
+        "back": "Adding more servers or instances to distribute the workload."
+    },
+    {
+        "front": "What is elasticity in the cloud?",
+        "back": "The capability to automatically adjust resources based on workload changes."
+    },
+    {
+        "front": "What is high availability in the cloud?",
+        "back": "A design approach that ensures systems remain operational and accessible during failures."
+    },
+    {
+        "front": "What are availability zones?",
+        "back": "Isolated locations within cloud regions to improve fault tolerance and redundancy."
+    },
+    {
+        "front": "What is failover in cloud systems?",
+        "back": "The process of automatically switching to a standby system in the event of a failure."
+    },
+    {
+        "front": "What is disaster recovery in the cloud?",
+        "back": "Strategies and services that ensure data and applications can be restored after a catastrophic event."
+    },
+    {
+        "front": "What is RTO in disaster recovery?",
+        "back": "Recovery Time Objective — the maximum acceptable downtime after a disruption."
+    },
+    {
+        "front": "What is RPO in disaster recovery?",
+        "back": "Recovery Point Objective — the maximum acceptable amount of data loss measured in time."
+    },
+    {
+        "front": "What is a cloud backup service?",
+        "back": "A solution that stores backup data in the cloud for disaster recovery and long-term retention."
+    },
+    {
+        "front": "What are some common cloud providers?",
+        "back": "Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), IBM Cloud."
+    },
+    {
+        "front": "What is multitenancy in cloud services?",
+        "back": "A cloud architecture where a single instance serves multiple customers or tenants."
+    },
+    {
+        "front": "What is infrastructure as code (IaC)?",
+        "back": "The practice of managing and provisioning cloud infrastructure through code scripts."
+    },
+    {
+        "front": "What are examples of IaC tools?",
+        "back": "Terraform, AWS CloudFormation, Ansible, and Pulumi."
+    },
+    {
+        "front": "What is a service-level agreement (SLA)?",
+        "back": "A formal contract that defines the expected level of service and availability between a provider and customer."
+    },
+    {
+        "front": "What is cloud cost management?",
+        "back": "Monitoring and controlling cloud expenses through budgeting, alerts, and optimization tools."
+    },
+    {
+        "front": "What is vendor lock-in in cloud computing?",
+        "back": "The challenge of migrating systems or data due to dependency on a specific cloud provider."
+    },
+    {
+        "front": "What is the shared responsibility model in the cloud?",
+        "back": "A model where cloud providers and customers share security and compliance responsibilities."
+    },
+    {
+        "front": "What is a virtual machine (VM)?",
+        "back": "An emulated computer system that runs within a host machine, used to deploy services in the cloud."
+    },
+    {
+        "front": "What is a container?",
+        "back": "A lightweight, portable environment that includes all dependencies to run an application."
+    }
+]

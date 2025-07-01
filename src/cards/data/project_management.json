@@ -1,0 +1,227 @@
+[
+    {
+      "front": "What is Project Initiation?",
+      "back": "Project Initiation is the first phase of a project where the need is identified, goals are defined, and feasibility is assessed."
+    },
+    {
+      "front": "What is a Stakeholder?",
+      "back": "A stakeholder is any individual, group, or organization that has an interest in or is affected by the outcome of a project."
+    },
+    {
+      "front": "Why is stakeholder analysis important?",
+      "back": "Stakeholder analysis helps identify key players, their influence, and how to engage them effectively during the project."
+    },
+    {
+      "front": "What is a project charter?",
+      "back": "A project charter is a formal document that outlines the objectives, scope, and participants of a project."
+    },
+    {
+      "front": "What is the purpose of planning in a project?",
+      "back": "Planning ensures that resources, timelines, and risks are identified and managed to meet project goals efficiently."
+    },
+    {
+      "front": "What does scope mean in project management?",
+      "back": "Scope defines the boundaries of a project, including deliverables, features, tasks, and deadlines."
+    },
+    {
+      "front": "What is a project milestone?",
+      "back": "A milestone is a key point in a project timeline that marks the completion of major deliverables or phases."
+    },
+    {
+      "front": "What is a Gantt chart?",
+      "back": "A Gantt chart is a visual timeline that displays project tasks, durations, and dependencies."
+    },
+    {
+      "front": "Why is team formation important?",
+      "back": "Effective team formation ensures the right mix of skills and roles for successful project execution."
+    },
+    {
+      "front": "What is a RACI matrix?",
+      "back": "A RACI matrix clarifies roles by identifying who is Responsible, Accountable, Consulted, and Informed for tasks."
+    },
+    {
+      "front": "What is project execution?",
+      "back": "Execution is the phase where project plans are implemented and deliverables are developed and delivered."
+    },
+    {
+      "front": "What is risk management in projects?",
+      "back": "Risk management involves identifying, analyzing, and responding to potential problems before they occur."
+    },
+    {
+      "front": "What are project deliverables?",
+      "back": "Deliverables are tangible or intangible outputs produced as a result of project activities."
+    },
+    {
+      "front": "What is quality management in a project?",
+      "back": "Quality management ensures that project outputs meet the required standards and customer expectations."
+    },
+    {
+      "front": "What is a communication plan?",
+      "back": "A communication plan outlines how project information will be shared with stakeholders."
+    },
+    {
+      "front": "What is a risk register?",
+      "back": "A risk register is a document that logs identified risks, their impact, likelihood, and mitigation strategies."
+    },
+    {
+      "front": "What is project monitoring?",
+      "back": "Monitoring involves tracking progress, identifying issues, and ensuring the project stays on schedule and budget."
+    },
+    {
+      "front": "What is project control?",
+      "back": "Control includes actions taken to correct deviations from the project plan and to maintain desired performance."
+    },
+    {
+      "front": "What is project closure?",
+      "back": "Closure is the final phase where the project is completed, deliverables are handed over, and evaluation is conducted."
+    },
+    {
+      "front": "What is a capstone project?",
+      "back": "A capstone project is a culminating assignment that integrates skills and knowledge gained throughout a course."
+    },
+    {
+      "front": "What is project documentation?",
+      "back": "Project documentation includes all records, plans, reports, and evidence produced during the project lifecycle."
+    },
+    {
+      "front": "Why is feedback important in projects?",
+      "back": "Feedback helps evaluate performance, identify areas of improvement, and guide future project decisions."
+    },
+    {
+      "front": "What is time management in project execution?",
+      "back": "Time management ensures tasks are completed on schedule by setting priorities and using resources efficiently."
+    },
+    {
+      "front": "What is a project constraint?",
+      "back": "A project constraint is a limitation such as time, cost, or scope that affects the execution of the project."
+    },
+    {
+      "front": "What is the triple constraint?",
+      "back": "The triple constraint refers to the relationship between scope, time, and cost in project management."
+    },
+    {
+      "front": "What is a work breakdown structure (WBS)?",
+      "back": "A WBS is a hierarchical decomposition of the total scope of work to accomplish project objectives."
+    },
+    {
+      "front": "What is change management in a project?",
+      "back": "Change management is the process of handling adjustments to scope, resources, or goals during a project."
+    },
+    {
+      "front": "What is cost estimation?",
+      "back": "Cost estimation is the process of forecasting the financial resources required for project activities."
+    },
+    {
+      "front": "What is stakeholder engagement?",
+      "back": "Stakeholder engagement involves communicating with and involving stakeholders throughout the project."
+    },
+    {
+      "front": "What is scope creep?",
+      "back": "Scope creep is the uncontrolled expansion of project scope without adjustments to time, cost, or resources."
+    },
+    {
+      "front": "What is a project KPI?",
+      "back": "A project Key Performance Indicator (KPI) measures success in areas such as time, cost, and quality."
+    },
+    {
+      "front": "What is project alignment?",
+      "back": "Project alignment ensures that project goals are in line with organizational strategy and stakeholder expectations."
+    },
+    {
+      "front": "What is task dependency?",
+      "back": "A task dependency defines the relationship between project tasks, indicating which tasks must precede others."
+    },
+    {
+      "front": "What is a project schedule?",
+      "back": "A schedule outlines when tasks will be completed and helps track progress against the project timeline."
+    },
+    {
+      "front": "What is a status report?",
+      "back": "A status report summarizes project progress, risks, issues, and next steps at regular intervals."
+    },
+    {
+      "front": "What is a project sponsor?",
+      "back": "A project sponsor is a senior stakeholder who provides resources, support, and strategic direction."
+    },
+    {
+      "front": "What is scope validation?",
+      "back": "Scope validation involves reviewing deliverables with the client or sponsor for formal acceptance."
+    },
+    {
+      "front": "What is a burn-down chart?",
+      "back": "A burn-down chart is a graphical representation of work left versus time remaining in a project."
+    },
+    {
+      "front": "What is a retrospective meeting?",
+      "back": "A retrospective is a meeting held after a project or sprint to reflect on what went well and what can improve."
+    },
+    {
+      "front": "What is Earned Value Management (EVM)?",
+      "back": "EVM is a method that integrates scope, time, and cost to assess project performance and progress."
+    },
+    {
+      "front": "What is a critical path in project management?",
+      "back": "The critical path is the longest sequence of dependent tasks that determines the shortest possible duration."
+    },
+    {
+      "front": "What is a resource allocation plan?",
+      "back": "A resource allocation plan maps how resources (people, equipment, time) are assigned to tasks in a project."
+    },
+    {
+      "front": "What is escalation in project management?",
+      "back": "Escalation is the process of reporting issues beyond your control to higher authorities for resolution."
+    },
+    {
+      "front": "What is a project baseline?",
+      "back": "A baseline is the original project plan (scope, time, cost) used for performance comparison and control."
+    },
+    {
+      "front": "What is the importance of project evaluation?",
+      "back": "Evaluation helps determine if project objectives were achieved and identifies lessons for future improvements."
+    },
+    {
+      "front": "What is a lessons learned document?",
+      "back": "A lessons learned document summarizes key takeaways and insights from project successes and failures."
+    },
+    {
+      "front": "What is the role of the project manager?",
+      "back": "The project manager leads planning, execution, monitoring, and closure of the project to meet its objectives."
+    },
+    {
+      "front": "What is a project assumption?",
+      "back": "An assumption is something accepted as true for planning purposes, but it may introduce risk if incorrect."
+    },
+    {
+      "front": "What is a communication channel?",
+      "back": "A communication channel refers to the method used to share information with project stakeholders."
+    },
+    {
+      "front": "What is a stakeholder register?",
+      "back": "A stakeholder register lists all individuals or organizations involved in the project and their interests."
+    },
+    {
+      "front": "What is integration management?",
+      "back": "Integration management coordinates all project elements to ensure cohesive execution and delivery."
+    },
+    {
+      "front": "What is a milestone report?",
+      "back": "A milestone report provides an update on completed key phases or deliverables within the project."
+    },
+    {
+      "front": "What is a performance report?",
+      "back": "A performance report compares planned versus actual results in terms of scope, time, and cost."
+    },
+    {
+      "front": "What is a steering committee?",
+      "back": "A steering committee provides governance, guidance, and oversight to ensure the project aligns with goals."
+    },
+    {
+      "front": "What is contingency planning?",
+      "back": "Contingency planning prepares backup strategies in case identified risks materialize during a project."
+    },
+    {
+      "front": "What is project governance?",
+      "back": "Project governance defines roles, responsibilities, and processes for decision-making and accountability."
+    }
+  ]
+  

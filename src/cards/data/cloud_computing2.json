@@ -1,0 +1,230 @@
+[
+    {
+        "front": "What is data analysis?",
+        "back": "The process of inspecting, cleaning, and modeling data to discover useful insights and support decision-making."
+    },
+    {
+        "front": "What are the main types of data analysis?",
+        "back": "Descriptive, diagnostic, predictive, and prescriptive analysis."
+    },
+    {
+        "front": "What is data cleaning?",
+        "back": "The process of detecting and correcting inaccurate, incomplete, or irrelevant data."
+    },
+    {
+        "front": "Why is data cleaning important?",
+        "back": "To improve data quality, ensure accuracy, and enhance the reliability of analysis results."
+    },
+    {
+        "front": "What is data preprocessing?",
+        "back": "Preparing raw data for analysis by transforming, normalizing, and encoding it."
+    },
+    {
+        "front": "What is missing data?",
+        "back": "Data that is not stored or recorded in a dataset due to various reasons like system errors or skipped inputs."
+    },
+    {
+        "front": "How do you handle missing values?",
+        "back": "Common techniques include deletion, mean/mode/median imputation, and interpolation."
+    },
+    {
+        "front": "What is outlier detection?",
+        "back": "Identifying data points that are significantly different from others in the dataset."
+    },
+    {
+        "front": "What is normalization?",
+        "back": "Scaling data to a specific range, often 0 to 1, to improve algorithm performance."
+    },
+    {
+        "front": "What is standardization?",
+        "back": "Transforming data to have a mean of 0 and a standard deviation of 1."
+    },
+    {
+        "front": "What is data encoding?",
+        "back": "Converting categorical variables into numerical format (e.g., one-hot encoding)."
+    },
+    {
+        "front": "What is data visualization?",
+        "back": "The graphical representation of information and data to make it easier to understand."
+    },
+    {
+        "front": "What are common data visualization types?",
+        "back": "Bar charts, histograms, line graphs, scatter plots, pie charts, and heatmaps."
+    },
+    {
+        "front": "What is EDA (Exploratory Data Analysis)?",
+        "back": "An approach to analyze datasets to summarize their main characteristics using visual methods."
+    },
+    {
+        "front": "Why is EDA important?",
+        "back": "It helps understand data distributions, detect anomalies, and formulate hypotheses."
+    },
+    {
+        "front": "What tools are commonly used for EDA?",
+        "back": "Python (Pandas, Matplotlib, Seaborn), R, Tableau, and Excel."
+    },
+    {
+        "front": "What is a histogram?",
+        "back": "A graphical display of data using bars of different heights to show frequency distributions."
+    },
+    {
+        "front": "What is a box plot?",
+        "back": "A chart that shows the distribution, median, quartiles, and potential outliers in a dataset."
+    },
+    {
+        "front": "What is correlation analysis?",
+        "back": "Examining the strength and direction of relationships between variables."
+    },
+    {
+        "front": "What is statistical analysis?",
+        "back": "Applying mathematical formulas and models to interpret, describe, and infer conclusions from data."
+    },
+    {
+        "front": "What is mean?",
+        "back": "The average value of a dataset, calculated as the sum divided by the count of values."
+    },
+    {
+        "front": "What is median?",
+        "back": "The middle value in a sorted dataset."
+    },
+    {
+        "front": "What is standard deviation?",
+        "back": "A measure of how spread out the values in a dataset are around the mean."
+    },
+    {
+        "front": "What is regression analysis?",
+        "back": "A statistical method to examine the relationship between dependent and independent variables."
+    },
+    {
+        "front": "What is linear regression?",
+        "back": "A technique that models the linear relationship between two variables using a straight line."
+    },
+    {
+        "front": "What is multiple regression?",
+        "back": "A regression method that includes more than one independent variable."
+    },
+    {
+        "front": "What is a residual in regression?",
+        "back": "The difference between an observed value and the value predicted by the model."
+    },
+    {
+        "front": "What is R-squared?",
+        "back": "A statistical measure that indicates how well data fit a regression model."
+    },
+    {
+        "front": "What is time series analysis?",
+        "back": "Analyzing data points collected or recorded at specific time intervals."
+    },
+    {
+        "front": "What is a trend in time series?",
+        "back": "The long-term increase or decrease in the data over time."
+    },
+    {
+        "front": "What is seasonality?",
+        "back": "Regular, periodic fluctuations in time series data occurring at specific intervals."
+    },
+    {
+        "front": "What is lag in time series?",
+        "back": "A previous time step used as a predictor in forecasting future values."
+    },
+    {
+        "front": "What is moving average?",
+        "back": "A technique used to smooth out short-term fluctuations and highlight trends."
+    },
+    {
+        "front": "What is data storytelling?",
+        "back": "Communicating insights from data through a compelling narrative and visuals."
+    },
+    {
+        "front": "What are the components of effective data storytelling?",
+        "back": "Clear visuals, relevant data, a focused message, and a human context."
+    },
+    {
+        "front": "What is an infographic?",
+        "back": "A visual representation combining text and graphics to communicate data clearly and quickly."
+    },
+    {
+        "front": "What is a dashboard?",
+        "back": "An interface that aggregates and visualizes key metrics and KPIs in real time."
+    },
+    {
+        "front": "What is an interactive visualization?",
+        "back": "A dynamic chart or graphic that allows users to manipulate or explore the data in real time."
+    },
+    {
+        "front": "What are tools for interactive visualization?",
+        "back": "Power BI, Tableau, Plotly, and D3.js."
+    },
+    {
+        "front": "What is a KPI?",
+        "back": "Key Performance Indicator — a measurable value that indicates how effectively objectives are being achieved."
+    },
+    {
+        "front": "What is a pivot table?",
+        "back": "A data summarization tool used to sort, reorganize, and analyze datasets dynamically."
+    },
+    {
+        "front": "What is categorical data?",
+        "back": "Data that represents categories or groups (e.g., gender, product type)."
+    },
+    {
+        "front": "What is numerical data?",
+        "back": "Data expressed in numbers, either discrete (countable) or continuous (measurable)."
+    },
+    {
+        "front": "What is a scatter plot?",
+        "back": "A graph used to visualize the relationship between two numeric variables."
+    },
+    {
+        "front": "What is a heatmap?",
+        "back": "A graphical representation of data where values are represented by color."
+    },
+    {
+        "front": "What is a data pipeline?",
+        "back": "A series of data processing steps, from collection to analysis and visualization."
+    },
+    {
+        "front": "What is real-time analytics?",
+        "back": "Analyzing data immediately as it becomes available to support fast decision-making."
+    },
+    {
+        "front": "What is batch processing?",
+        "back": "Processing data in large groups or blocks at scheduled intervals."
+    },
+    {
+        "front": "What is Python used for in data analytics?",
+        "back": "Data wrangling, analysis, visualization, and modeling using libraries like Pandas and Matplotlib."
+    },
+    {
+        "front": "What is Pandas?",
+        "back": "A Python library for data manipulation and analysis using DataFrames and Series."
+    },
+    {
+        "front": "What is NumPy?",
+        "back": "A Python library for numerical computing with support for arrays, matrices, and math functions."
+    },
+    {
+        "front": "What is Matplotlib?",
+        "back": "A Python library used for creating static, animated, and interactive plots and visualizations."
+    },
+    {
+        "front": "What is Seaborn?",
+        "back": "A Python data visualization library based on Matplotlib that offers attractive statistical graphics."
+    },
+    {
+        "front": "What is data wrangling?",
+        "back": "The process of transforming and mapping data from one form to another to prepare it for analysis."
+    },
+    {
+        "front": "What is data literacy?",
+        "back": "The ability to read, understand, create, and communicate data as information."
+    },
+    {
+        "front": "What is a hypothesis in data analysis?",
+        "back": "A testable statement about the relationship between variables that can be evaluated using data."
+    },
+    {
+        "front": "What is an insight?",
+        "back": "A valuable understanding derived from analyzing data that supports informed decision-making."
+    }
+]

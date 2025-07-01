@@ -1,0 +1,77 @@
+[
+     {
+        "name": "Fundamentos de TI (Inglés)",
+        "file": "it_foundation.json",
+        "queryParam": "it_foundation"
+    },
+    {
+        "name": "Fundamentos de Programación",
+        "file": "programming_fundamentals.json",
+        "queryParam": "pf"
+    },
+    {
+        "name": "Web Development",
+        "file": "web_development.json",
+        "queryParam": "web"
+    },
+    {
+        "name": "Fundamentos de Bases de Datos",
+        "file": "database_foundation.json",
+        "queryParam": "dbf"
+    },
+    {
+        "name": "Programación Servidor",
+        "file": "server_side_programming.json",
+        "queryParam": "ssp"
+    },
+    {
+        "name": "Desarrollo de Software",
+        "file": "software_development.json",
+        "queryParam": "sd"
+    },
+    {
+        "name": "Diseño de Software",
+        "file": "design_development.json",
+        "queryParam": "dd"
+    },
+    {
+        "name": "Bases de Datos Avanzadas",
+        "file": "advanced_database.json",
+        "queryParam": "ad"
+    },
+    {
+        "name": "NoSQL",
+        "file": "no_sql.json",
+        "queryParam": "nsql"
+    },
+    {
+        "name": "Cloud Computing",
+        "file": "cloud_computing.json",
+        "queryParam": "cc"
+    },
+    {
+        "name": "Cloud Computing",
+        "file": "cloud_computing2.json",
+        "queryParam": "cc2"
+    },
+    {
+        "name": "Emerging Technologies",
+        "file": "emerging_technologies.json",
+        "queryParam": "et"
+    },
+    {
+        "name": "Machine Learning",
+        "file": "machine_learning.json",
+        "queryParam": "ml"
+    },
+    {
+        "name": "Internet of Things",
+        "file": "internet_of_things.json",
+        "queryParam": "iot"
+    },
+    {
+        "name": "Gestión de Proyectos",
+        "file": "project_management.json",
+        "queryParam": "pm"
+    }
+]
