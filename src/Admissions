@@ -408,15 +408,19 @@ menu: admission
                                                     </tr>
                                                     <tr>
                                                         <td>Patient Care Technician</td>
-                                                        <td>15 </td>
+                                                        <td>30 </td>
                                                     </tr>
                                                     <tr>
                                                         <td>Home Health Aide</td>
-                                                        <td>15</td>
+                                                        <td>30</td>
                                                     </tr>
                                                     <tr>
                                                         <td>Computer Business Application</td>
-                                                        <td>8</td>
+                                                        <td>30</td>
+                                                    </tr>
+                                                     <tr>
+                                                        <td>HVAC Technician</td>
+                                                        <td>30</td>
                                                     </tr>
                                                 </tbody>
                                             </table>
@@ -433,8 +437,8 @@ menu: admission
                             <div class="gdlr-core-pbf-element">
                                 <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                     <div class="gdlr-core-text-box-item-content" style="font-size: 17px ;text-transform: none ;">
-                                        <p>All students are taught by individualized instruction. The average student-teacher ratio is 15:1
-                                                for any session. Maximum class size is 15 students per session.</p>
+                                        <p>All students are taught by individualized instruction. The average student-teacher ratio is 30:1
+                                                for any session. Maximum class size is 30 students per session.</p>
                                     </div>
                                 </div>
                             </div>
