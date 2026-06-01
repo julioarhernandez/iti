@@ -1,0 +1,527 @@
+---
+title: Curso de Mecanica Automotriz en Miami | ITI
+description: Entrenamiento practico en mecanica automotriz en Miami. Programa de Master Automotive Technician con horario flexible, laboratorio y apoyo de admisiones.
+layout: landing
+---
+<style>
+    .auto-landing {
+        color: #26334d;
+        font-family: Poppins, Arial, sans-serif;
+    }
+
+    .auto-hero {
+        position: relative;
+        min-height: 620px;
+        display: flex;
+        align-items: center;
+        background-image: linear-gradient(90deg, rgba(11, 24, 48, 0.9) 0%, rgba(25, 47, 89, 0.72) 48%, rgba(25, 47, 89, 0.18) 100%), url('/assets/images/heromecanic.png');
+        background-size: cover;
+        background-position: center;
+        overflow: hidden;
+    }
+
+    .auto-container {
+        width: min(1180px, calc(100% - 36px));
+        margin: 0 auto;
+    }
+
+    .auto-hero-content {
+        max-width: 720px;
+        padding: 88px 0 104px;
+        color: #ffffff;
+    }
+
+    .auto-kicker {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        color: #f4a01c;
+        font-size: 14px;
+        font-weight: 700;
+        letter-spacing: 0;
+        text-transform: uppercase;
+        margin-bottom: 18px;
+    }
+
+    .auto-kicker:before {
+        content: "";
+        width: 34px;
+        height: 3px;
+        background: #f4a01c;
+        display: inline-block;
+    }
+
+    .auto-hero h1 {
+        color: #ffffff;
+        font-size: 56px;
+        line-height: 1.08;
+        font-weight: 800;
+        letter-spacing: 0;
+        margin: 0 0 22px;
+        max-width: 690px;
+    }
+
+    .auto-hero p {
+        color: #f3f6fb;
+        font-size: 20px;
+        line-height: 1.65;
+        margin: 0 0 30px;
+        max-width: 650px;
+    }
+
+    .auto-actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 14px;
+        align-items: center;
+    }
+
+    .auto-button {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 52px;
+        padding: 15px 24px;
+        background: #f4a01c;
+        color: #111827;
+        font-weight: 800;
+        text-transform: uppercase;
+        border-radius: 4px;
+        text-decoration: none;
+        line-height: 1.2;
+    }
+
+    .auto-button:hover,
+    .auto-button:focus {
+        color: #111827;
+        background: #ffb33b;
+    }
+
+    .auto-button.secondary {
+        color: #ffffff;
+        background: rgba(255, 255, 255, 0.14);
+        border: 1px solid rgba(255, 255, 255, 0.55);
+    }
+
+    .auto-button.secondary:hover,
+    .auto-button.secondary:focus {
+        color: #ffffff;
+        background: rgba(255, 255, 255, 0.24);
+    }
+
+    .auto-lead-band {
+        background: #f4a01c;
+        color: #182b4d;
+        padding: 18px 0;
+        font-weight: 700;
+    }
+
+    .auto-lead-band .auto-container {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 18px;
+    }
+
+    .auto-lead-item {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        font-size: 15px;
+    }
+
+    .auto-lead-item i {
+        color: #192f59;
+        font-size: 18px;
+        width: 20px;
+        text-align: center;
+    }
+
+    .auto-section {
+        padding: 74px 0;
+    }
+
+    .auto-section.light {
+        background: #f3f5f8;
+    }
+
+    .auto-section.dark {
+        background: #192f59;
+        color: #ffffff;
+    }
+
+    .auto-section.dark h2,
+    .auto-section.dark h3,
+    .auto-section.dark p {
+        color: #ffffff;
+    }
+
+    .auto-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 24px;
+    }
+
+    .auto-two-col {
+        display: grid;
+        grid-template-columns: 1.1fr 0.9fr;
+        gap: 44px;
+        align-items: start;
+    }
+
+    .auto-section h2 {
+        color: #192f59;
+        font-size: 36px;
+        line-height: 1.2;
+        font-weight: 800;
+        letter-spacing: 0;
+        margin: 0 0 18px;
+    }
+
+    .auto-section h3 {
+        color: #192f59;
+        font-size: 20px;
+        line-height: 1.35;
+        font-weight: 800;
+        letter-spacing: 0;
+        margin: 0 0 12px;
+    }
+
+    .auto-section p {
+        font-size: 16px;
+        line-height: 1.75;
+        margin: 0 0 18px;
+    }
+
+    .auto-card {
+        background: #ffffff;
+        border: 1px solid #dfe4ec;
+        border-radius: 6px;
+        padding: 26px;
+        min-height: 100%;
+    }
+
+    .auto-card i {
+        color: #f4a01c;
+        font-size: 32px;
+        margin-bottom: 18px;
+    }
+
+    .auto-list {
+        list-style: none;
+        padding: 0;
+        margin: 24px 0 0;
+        display: grid;
+        gap: 12px;
+    }
+
+    .auto-list li {
+        position: relative;
+        padding-left: 30px;
+        font-size: 16px;
+        line-height: 1.55;
+    }
+
+    .auto-list li:before {
+        content: "\f00c";
+        font-family: FontAwesome;
+        position: absolute;
+        left: 0;
+        top: 1px;
+        color: #f4a01c;
+    }
+
+    .auto-stat-row {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 18px;
+        margin-top: 28px;
+    }
+
+    .auto-stat {
+        border-left: 4px solid #f4a01c;
+        background: #ffffff;
+        padding: 20px;
+        color: #192f59;
+    }
+
+    .auto-stat strong {
+        display: block;
+        font-size: 28px;
+        line-height: 1.1;
+        margin-bottom: 6px;
+    }
+
+    .auto-form-wrap {
+        background: #ffffff;
+        border-top: 6px solid #f4a01c;
+        border-radius: 6px;
+        box-shadow: 0 16px 38px rgba(14, 30, 58, 0.14);
+        padding: 30px;
+    }
+
+    .auto-form-wrap h2 {
+        font-size: 28px;
+        margin-bottom: 8px;
+    }
+
+    .auto-form .field {
+        margin-bottom: 14px;
+    }
+
+    .auto-form label {
+        display: block;
+        color: #192f59;
+        font-size: 14px;
+        font-weight: 700;
+        margin-bottom: 7px;
+    }
+
+    .auto-form input,
+    .auto-form select {
+        width: 100%;
+        min-height: 46px;
+        border: 1px solid #c9d1dc;
+        border-radius: 3px;
+        padding: 10px 12px;
+        font-size: 15px;
+        background: #ffffff;
+        color: #1f2937;
+    }
+
+    .auto-form button {
+        width: 100%;
+        min-height: 52px;
+        border: 0;
+        border-radius: 4px;
+        background: #f4a01c;
+        color: #111827;
+        font-weight: 800;
+        text-transform: uppercase;
+        cursor: pointer;
+    }
+
+    .auto-form small {
+        display: block;
+        color: #5f6d80;
+        font-size: 12px;
+        line-height: 1.5;
+        margin-top: 12px;
+    }
+
+    .auto-program-image {
+        width: 100%;
+        min-height: 420px;
+        object-fit: cover;
+        border-radius: 6px;
+        display: block;
+    }
+
+    .auto-cta {
+        text-align: center;
+        max-width: 820px;
+        margin: 0 auto;
+    }
+
+    .auto-cta h2 {
+        margin-bottom: 14px;
+    }
+
+    .auto-partner-note {
+        color: #f4a01c;
+        font-size: 17px;
+        font-weight: 800;
+        line-height: 1.55;
+        margin-top: 24px;
+    }
+
+    @media (max-width: 999px) {
+        .auto-hero {
+            min-height: 560px;
+        }
+
+        .auto-hero h1 {
+            font-size: 44px;
+        }
+
+        .auto-lead-band .auto-container,
+        .auto-grid,
+        .auto-two-col,
+        .auto-stat-row {
+            grid-template-columns: 1fr 1fr;
+        }
+    }
+
+    @media (max-width: 680px) {
+        .auto-container {
+            width: min(100% - 28px, 1180px);
+        }
+
+        .auto-hero {
+            min-height: auto;
+        }
+
+        .auto-hero-content {
+            padding: 64px 0 76px;
+        }
+
+        .auto-hero h1 {
+            font-size: 34px;
+        }
+
+        .auto-hero p {
+            font-size: 17px;
+        }
+
+        .auto-actions,
+        .auto-lead-band .auto-container,
+        .auto-grid,
+        .auto-two-col,
+        .auto-stat-row {
+            grid-template-columns: 1fr;
+        }
+
+        .auto-button {
+            width: 100%;
+        }
+
+        .auto-section {
+            padding: 54px 0;
+        }
+
+        .auto-section h2 {
+            font-size: 30px;
+        }
+
+        .auto-program-image {
+            min-height: 280px;
+        }
+    }
+</style>
+
+<main class="auto-landing">
+    <section class="auto-hero">
+        <div class="auto-container">
+            <div class="auto-hero-content">
+                <div class="auto-kicker">Programa en Miami</div>
+                <h1>Curso de Mecanica Automotriz</h1>
+                <p>Obtenga experiencia practica en talleres automotrices de primer nivel y desarrolle las habilidades que buscan los empleadores de la industria.</p>
+                <div class="auto-actions">
+                    <a class="auto-button" href="#solicitar-informacion">Solicitar informacion</a>
+                    <a class="auto-button secondary" href="tel:13055549281">Llamar ahora</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="auto-lead-band">
+        <div class="auto-container">
+            <div class="auto-lead-item"><i class="fa fa-clock-o"></i><span>36 semanas</span></div>
+            <div class="auto-lead-item"><i class="fa fa-wrench"></i><span>900 horas de instruccion</span></div>
+            <div class="auto-lead-item"><i class="fa fa-calendar-check-o"></i><span>Horario Flexible</span></div>
+            <div class="auto-lead-item"><i class="fa fa-map-marker"></i><span>Campus en Miami</span></div>
+        </div>
+    </div>
+
+    <section class="auto-section" id="solicitar-informacion">
+        <div class="auto-container auto-two-col">
+            <div>
+                <h2>Preparate para trabajar en el area automotriz</h2>
+                <p>El programa Master Automotive Technician de InterAmerican Technical Institute esta disenado para desarrollar las destrezas necesarias para posiciones de entrada en talleres, concesionarios y centros de servicio automotriz.</p>
+                <p>Los estudiantes practican procedimientos reales de inspeccion, diagnostico, mantenimiento y reparacion, usando herramientas y equipos de diagnostico comunes en la industria.</p>
+                <ul class="auto-list">
+                    <li>Sistemas electricos y electronicos del vehiculo.</li>
+                    <li>Diagnostico y reparacion basica de motor.</li>
+                    <li>Frenos, suspension, direccion y mantenimiento preventivo.</li>
+                    <li>Aire acondicionado automotriz, calefaccion y refrigerante.</li>
+                    <li>Seguridad de taller, procedimientos profesionales y servicio al cliente.</li>
+                </ul>
+                <div class="auto-stat-row">
+                    <div class="auto-stat"><strong>900</strong><span>Clock hours</span></div>
+                    <div class="auto-stat"><strong>36</strong><span>Credit hours</span></div>
+                    <div class="auto-stat"><strong>Diploma</strong><span>Al graduarte</span></div>
+                </div>
+            </div>
+            <aside class="auto-form-wrap">
+                <h2>Recibe informacion</h2>
+                <p>Completa el formulario y un representante de admisiones te contactara.</p>
+                <form class="auto-form" action="https://formsubmit.co/mirialis.barrios@iti.edu" method="POST">
+                    <input type="text" name="_honey" style="display:none">
+                    <input type="hidden" name="_subject" value="Lead Google Ads - Mecanica Automotriz">
+                    <input type="hidden" name="programs" value="master-automotive-technician">
+                    <input type="hidden" name="campaign" value="google-ads-mecanica-automotriz">
+                    <div class="field">
+                        <label for="auto-name">Nombre*</label>
+                        <input id="auto-name" type="text" name="name" autocomplete="given-name" required>
+                    </div>
+                    <div class="field">
+                        <label for="auto-last-name">Apellido*</label>
+                        <input id="auto-last-name" type="text" name="last-name" autocomplete="family-name" required>
+                    </div>
+                    <div class="field">
+                        <label for="auto-email">Email*</label>
+                        <input id="auto-email" type="email" name="email" autocomplete="email" required>
+                    </div>
+                    <div class="field">
+                        <label for="auto-phone">Telefono*</label>
+                        <input id="auto-phone" type="tel" pattern="^[0-9\-+\s()]*$" name="phone" autocomplete="tel" inputmode="tel" required>
+                    </div>
+                    <button type="submit">Quiero informacion</button>
+                    <small>Al enviar este formulario, autorizas a ITI a contactarte por telefono, SMS o email sobre programas academicos. Pueden aplicar tarifas de mensajes y datos.</small>
+                </form>
+            </aside>
+        </div>
+    </section>
+
+    <section class="auto-section light">
+        <div class="auto-container">
+            <h2>Lo que aprenderas</h2>
+            <div class="auto-grid">
+                <div class="auto-card">
+                    <i class="fa fa-car"></i>
+                    <h3>Mantenimiento y preparacion</h3>
+                    <p>Inspeccion del vehiculo, fluidos, filtros, rotacion de llantas, documentacion y procedimientos de servicio.</p>
+                </div>
+                <div class="auto-card">
+                    <i class="fa fa-bolt"></i>
+                    <h3>Diagnostico electrico</h3>
+                    <p>Baterias, sistemas de carga y arranque, iluminacion, modulos, accesorios y uso de herramientas de diagnostico.</p>
+                </div>
+                <div class="auto-card">
+                    <i class="fa fa-cogs"></i>
+                    <h3>Sistemas mecanicos</h3>
+                    <p>Motor, frenos hidraulicos, ABS, suspension, direccion, aire acondicionado, calefaccion y enfriamiento.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="auto-section">
+        <div class="auto-container auto-two-col">
+            <img class="auto-program-image" src="/assets/images/outline-mecanica.png" alt="Estudiantes practicando mecanica automotriz">
+            <div>
+                <h2>Experiencia en entornos automotrices reales</h2>
+                <p>Mientras otros programas se limitan al salon de clases, nuestros estudiantes tienen la oportunidad de aprender en entornos automotrices reales.</p>
+                <p>Gracias a la colaboracion con Murgado Automotive Group, los estudiantes podran complementar su formacion academica con experiencias practicas en talleres profesionales, observando de cerca las herramientas, tecnologias y procedimientos utilizados diariamente por tecnicos automotrices de la industria.</p>
+                <p>Esta valiosa experiencia fortalece las habilidades practicas, mejora la preparacion para el empleo y brinda una vision real del entorno de trabajo que encontraran al iniciar su carrera.</p>
+                <ul class="auto-list">
+                    <li>Instructor especializado en sistemas automotrices y tecnologia EV.</li>
+                    <li>Programa de 36 semanas con alternativas de horario flexible para apoyar a estudiantes con diferentes responsabilidades.</li>
+                    <li>Asistencia de admisiones para entender requisitos, costos y proximos pasos.</li>
+                    <li>Ayuda financiera disponible para quienes califiquen.</li>
+                </ul>
+                <p class="auto-partner-note">Aprenda haciendo. Desarrolle experiencia real. Preparese para una carrera en la industria automotriz moderna.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="auto-section dark">
+        <div class="auto-container auto-cta">
+            <h2>Comienza tu camino en mecanica automotriz</h2>
+            <p>Habla con admisiones y recibe orientacion sobre el programa, horarios, requisitos y proceso de matricula.</p>
+            <div class="auto-actions" style="justify-content: center;">
+                <a class="auto-button" href="#solicitar-informacion">Solicitar informacion</a>
+                <a class="auto-button secondary" href="tel:13055549281">(305) 554-9281</a>
+            </div>
+        </div>
+    </section>
+</main>
