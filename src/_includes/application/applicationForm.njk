@@ -59,3 +59,36 @@
     </div>
     </p>
 </form>
+<script>
+    (function () {
+        var form = document.querySelector('form.quform');
+        if (!form) return;
+
+        form.addEventListener('submit', function (e) {
+            if (!form.checkValidity()) {
+                form.reportValidity();
+                return;
+            }
+
+            e.preventDefault();
+
+            var sent = false;
+            var proceed = function () {
+                if (sent) return;
+                sent = true;
+                form.submit();
+            };
+
+            if (typeof gtag === 'function') {
+                gtag('event', 'conversion', {
+                    'send_to': 'AW-974837632/xdevCP3R1c0cEICv69AD',
+                    'event_callback': proceed,
+                    'event_timeout': 2000
+                });
+                setTimeout(proceed, 2000);
+            } else {
+                proceed();
+            }
+        });
+    })();
+</script>
