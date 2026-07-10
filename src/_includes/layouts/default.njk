@@ -1,16 +1,9 @@
 <!DOCTYPE html>
 <html lang="en-US" class="no-js">
 <head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-974837632">
-</script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
- 
-  gtag('config', 'AW-974837632');
-</script>
+{%- if iti.production %}
+    {%- include "scripts/googleAdsTag.njk" ignore missing %}
+{%- endif %}
 <script type="application/ld+json">
 {
 "@context": "https://schema.org",
