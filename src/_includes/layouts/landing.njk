@@ -93,13 +93,10 @@ eleventyComputed:
         }
     </style>
     {%- if iti.production %}
-        {%- include "scripts/analytics.njk" ignore missing %}
+        {%- include "scripts/googleAdsTag.njk" ignore missing %}
     {%- endif %}
 </head>
 <body class="iti-body iti-body-front iti-full iti-blockquote-style-1">
-    {%- if iti.production %}
-        {%- include "scripts/tagManager.njk" ignore missing %}
-    {%- endif %}
     <header class="landing-header" aria-label="InterAmerican Technical Institute">
         <div class="landing-header-inner">
             <img class="landing-logo" src="/assets/images/iti-logo.svg" alt="InterAmerican Technical Institute">
